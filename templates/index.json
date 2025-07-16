@@ -63,19 +63,70 @@
         "text_color": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
+    "rich_text_KjKrGJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JTFyUy": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi tous les dermatologues nous conseillent ?",
+            "heading_tag": "h2",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JTFyUy"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "content_width": "large",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
+        "text_color": ""
+      }
+    },
+    "slideshow_CdGYYi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_REaYmQ": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_REaYmQ"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "collection-list": {
@@ -786,7 +837,8 @@
   "order": [
     "slideshow",
     "custom_liquid_EBFVyj",
-    "scrolling-text",
+    "rich_text_KjKrGJ",
+    "slideshow_CdGYYi",
     "collection-list",
     "featured-collection",
     "Dawn-text",
