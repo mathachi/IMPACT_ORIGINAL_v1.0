@@ -65,7 +65,7 @@
         "enable_sticky": true,
         "hide_on_scroll": true,
         "logo": "shopify://shop_images/logo_collagix_qualite.svg",
-        "logo_max_width": 155,
+        "logo_max_width": 170,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
