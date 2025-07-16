@@ -70,7 +70,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi tous les dermatologues nous conseillent ?",
-            "heading_tag": "h2",
+            "heading_tag": "h5",
             "text_color": "#000000",
             "gradient": ""
           }
