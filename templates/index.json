@@ -49,90 +49,17 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
-      ],
+    "custom_liquid_EBFVyj": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n  <title>Vu sur</title>\n  <style>\n    body {\n      margin: 0;\n      font-family: sans-serif;\n      background-color: #fff;\n    }\n\n    .featured-section {\n      padding: 36px 20px;\n      background-color: #f7f7f7;\n    }\n\n    .featured-section h2 {\n      text-align: center;\n      color: #121212;\n      font-size: 2rem;\n      margin-bottom: 20px;\n    }\n\n    .featured-section h2 span {\n      color: #6D388B;\n    }\n\n    .logo-list {\n      display: flex;\n      gap: 20px;\n      flex-wrap: wrap;\n      justify-content: center;\n    }\n\n    .logo-item {\n      flex: 0 0 auto;\n      height: 50px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      transition: transform 0.3s;\n    }\n\n    .logo-item img {\n      max-height: 100%;\n      max-width: 100%;\n      filter: grayscale(100%);\n      transition: filter 0.3s ease;\n    }\n\n    .logo-item img:hover {\n      filter: grayscale(0%);\n    }\n\n    /* Slider on mobile */\n    @media (max-width: 768px) {\n      .logo-list {\n        overflow-x: auto;\n        flex-wrap: nowrap;\n        scroll-snap-type: x mandatory;\n        -webkit-overflow-scrolling: touch;\n      }\n\n      .logo-item {\n        flex: 0 0 70%;\n        scroll-snap-align: center;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <section class=\"featured-section\">\n    <h2><span>Featured</span> on</h2>\n    <div class=\"logo-list\" id=\"logoList\">\n      <div class=\"logo-item\">\n        <a href=\"#\" target=\"_blank\">\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elle_Logo.svg/2560px-Elle_Logo.svg.png\" alt=\"ELLE\" />\n        </a>\n      </div>\n      <div class=\"logo-item\">\n        <a href=\"#\" target=\"_blank\">\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cosmopolitan_logo.svg/2560px-Cosmopolitan_logo.svg.png\" alt=\"Cosmopolitan\" />\n        </a>\n      </div>\n      <div class=\"logo-item\">\n        <a href=\"#\" target=\"_blank\">\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vogue_Logo.svg/2560px-Vogue_Logo.svg.png\" alt=\"Vogue\" />\n        </a>\n      </div>\n      <div class=\"logo-item\">\n        <a href=\"#\" target=\"_blank\">\n          <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Allure_logo.svg/2560px-Allure_logo.svg.png\" alt=\"Allure\" />\n        </a>\n      </div>\n    </div>\n  </section>\n\n</body>\n</html>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "scrolling-text": {
@@ -857,7 +784,7 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
+    "custom_liquid_EBFVyj",
     "scrolling-text",
     "collection-list",
     "featured-collection",
