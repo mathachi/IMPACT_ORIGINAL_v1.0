@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/banner_pc.svg",
-            "mobile_image": "shopify://shop_images/banner_mobile_homme.svg",
+            "mobile_image": "shopify://shop_images/banner_mobile_homme_5e1ce99a-5b74-4732-b90a-88a9f17490bf.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
