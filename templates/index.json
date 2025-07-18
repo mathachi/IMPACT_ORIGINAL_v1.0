@@ -157,6 +157,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_7kEGwr": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_hdi7CT": {
       "type": "featured-product",
       "blocks": {
@@ -842,6 +855,7 @@
     "slideshow_CdGYYi",
     "custom_liquid_PXwNyE",
     "custom_liquid_Y4Bnh4",
+    "custom_liquid_7kEGwr",
     "featured_product_hdi7CT",
     "image-with-text-overlay",
     "media-grid",
