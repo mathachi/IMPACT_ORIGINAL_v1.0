@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_pc.svg",
+            "image": "shopify://shop_images/banner_pc_1.svg",
             "mobile_image": "shopify://shop_images/banner_mobile_homme_1.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
