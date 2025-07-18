@@ -95,7 +95,7 @@
         "image_REaYmQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/points_forts_07ade8a0-8a05-48e4-9664-c553c24afd54.svg",
+            "image": "shopify://shop_images/points_forts_blanc.svg",
             "mobile_image": "shopify://shop_images/points_forts_blanc.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
