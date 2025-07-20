@@ -332,6 +332,27 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "collapsible_text_4iKAmQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<h3><strong>Préparation</strong></h3><p>1.Remplissez le réservoir avec une cartouche de sérum, puis revissez soigneusement la tête à micro-aiguilles.</p><p>2.Retournez l’appareil et laissez le sérum imprégner les micro-canaux pendant 1 à 2 minutes.</p><p>3.Pendant ce temps, assurez-vous que vos cheveux et votre cuir chevelu sont propres et parfaitement secs.</p><h3><strong>Application</strong></h3><p>1.Retirez le capuchon de protection et commencez l’application.</p><p>2.Appliquez l’appareil par pressions lentes et régulières, en ciblant les zones clairsemées.</p><p>3.Passez 2 à 3 fois sur chaque zone afin de favoriser une diffusion optimale du sérum.</p><p>4.Massez délicatement le cuir chevelu du bout des doigts pour stimuler la microcirculation et faciliter l’absorption.</p><h3><strong>Après le traitement</strong></h3><p>1.Retirez la tête à micro-aiguilles avec précaution et refermez l’appareil.</p><p>2.Nettoyez les parties amovibles si nécessaire et conservez l’appareil dans un endroit propre et sec.</p><p>3.Utilisez l’appareil une fois par semaine pendant 3 semaines, puis observez une pause d’une semaine. Reprenez ce cycle jusqu’à obtention de résultats visibles.</p>"
+          }
+        },
+        "collapsible_text_EdcYhU": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_AqFkBY": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
         }
       },
       "block_order": [
@@ -344,7 +365,10 @@
         "liquid_DDi4wM",
         "buy_buttons_eEkHTw",
         "image_3CFFBU",
-        "image_BWr7nT"
+        "image_BWr7nT",
+        "collapsible_text_4iKAmQ",
+        "collapsible_text_EdcYhU",
+        "collapsible_text_AqFkBY"
       ],
       "name": "Featured product",
       "settings": {
