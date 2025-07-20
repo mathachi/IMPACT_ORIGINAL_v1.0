@@ -343,15 +343,15 @@
         "collapsible_text_EdcYhU": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Ingrédients",
+            "content": "<h3>🌿 Actifs Cliniques & Technologiques du Sérum Colagea Men®</h3><p>Une formule de nouvelle génération, concentrée en actifs reconnus pour leur efficacité et optimisée par des vecteurs de pénétration avancés :</p><p>• <strong>Complexe végétal stimulant</strong> : Association synergique d'extraits de thé, de baies, de racines et de peptides, conçue pour relancer le cycle capillaire, stimuler les cellules souches du bulbe et densifier la chevelure.<br/><br/>• <strong>Peptides biomimétiques (Copper Tripeptide-1 & Acetyl Tetrapeptide-3)</strong> : Favorisent la régénération folliculaire et renforcent l’ancrage du cheveu.<br/><br/>• <strong>Caféine liposomée</strong> : Améliore la microcirculation et booste l’oxygénation du cuir chevelu.<br/><br/>• <strong>Extraits de palmier nain & graines de courge</strong> : Aident à réguler la chute hormonale (DHT).<br/><br/>• <strong>Extrait de romarin</strong> : Active naturellement la pousse et apaise les inflammations.<br/><br/>• <strong>Niacinamide & Menthol</strong> : Purifient, apaisent et revitalisent le cuir chevelu.<br/><br/>• <strong>Complexe Follicen-X™ (Lécithine + Ferment de gingembre)</strong> : Accélère la pénétration des actifs au cœur du follicule.</p><h3>🧪 Technologie Follicen-X™</h3><p>Un système intelligent de vectorisation qui agit comme un canal biologique, pour une diffusion ciblée des actifs jusqu’au cœur du follicule — là où tout commence.</p><h3>📋 Liste complète des ingrédients (INCI)</h3><p><em>Aqua, Glycerin, 1,2-Pentanediol, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Copper Tripeptide-1, Acetyl Tetrapeptide-3, Caffeine, Serenoa Serrulata Fruit Extract, Cucurbita Pepo Seed Extract, Rosmarinus Officinalis Leaf Extract, Lecithin, Zingiber Officinale Root Ferment Extract, Niacinamide, Menthol.</em></p>"
           }
         },
         "collapsible_text_AqFkBY": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Expédition et retours",
+            "content": "<p><strong>Livraison offerte</strong><br/>La livraison est offerte pour toute commande supérieure à 40 €.</p><p><strong>Délai d'expédition</strong><br/>La plupart des commandes sont expédiées sous un jour ouvrable et livrées dans un délai de 7 à 10 jours ouvrables.</p><p><strong>Expédition mondiale</strong><br/>Nous expédions également vers la plupart des pays internationaux.</p><p><strong>Retours</strong><br/><strong>Satisfaction garantie à 100 %</strong><br/>Oui, nous acceptons les retours dans les 60 jours suivant la réception pour un remboursement complet, même pour les produits utilisés et ouverts.</p>"
           }
         }
       },
