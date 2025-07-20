@@ -309,8 +309,8 @@
         "buy_buttons_eEkHTw": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -337,7 +337,7 @@
       "settings": {
         "full_width": true,
         "product": "collagix-micro-infusion-capillaire-regenerante",
-        "desktop_media_width": 35,
+        "desktop_media_width": 40,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
