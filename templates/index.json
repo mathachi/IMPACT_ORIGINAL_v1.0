@@ -412,12 +412,20 @@
             "title": "Est-ce adapté à tous les types de cheveux ?",
             "content": "<p>Oui, le système de repousse capillaire Collagix est conçu pour fonctionner sur tous les types et textures de cheveux.</p>"
           }
+        },
+        "item_4yDTfY": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sans danger à utiliser ?",
+            "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir une utilisation sécurisée à domicile.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_4yDTfY"
       ],
       "settings": {
         "full_width": true,
