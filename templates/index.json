@@ -316,6 +316,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_3CFFBU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carte_bleu_etc.svg",
+            "alignment": "center",
+            "max_width": 300
+          }
         }
       },
       "block_order": [
@@ -326,7 +334,8 @@
         "image_CwGGNn",
         "separator_6nrrQc",
         "liquid_DDi4wM",
-        "buy_buttons_eEkHTw"
+        "buy_buttons_eEkHTw",
+        "image_3CFFBU"
       ],
       "name": "Featured product",
       "settings": {
