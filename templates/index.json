@@ -300,25 +300,11 @@
           "type": "separator",
           "settings": {}
         },
-        "description_tefUhn": {
-          "type": "description",
+        "liquid_DDi4wM": {
+          "type": "liquid",
           "settings": {
-            "collapse_content": false
+            "liquid": "<!-- HTML à ajouter là où vous voulez le timer -->\n<div class=\"countdown\" id=\"countdown\">\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"days\">00</span>\n        <div class=\"time-label\">Jours</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"hours\">00</span>\n        <div class=\"time-label\">Hrs</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"minutes\">10</span>\n        <div class=\"time-label\">Mins</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"seconds\">08</span>\n        <div class=\"time-label\">Secs</div>\n    </div>\n</div>\n\n<!-- CSS à ajouter dans votre thème -->\n<style>\n.countdown {\n    display: flex;\n    gap: 20px;\n    align-items: center;\n    justify-content: center;\n    background: white;\n    padding: 30px;\n    border-radius: 10px;\n    box-shadow: 0 4px 8px rgba(0,0,0,0.1);\n    margin: 20px 0;\n}\n\n.time-unit {\n    text-align: center;\n    min-width: 60px;\n}\n\n.time-number {\n    font-size: 48px;\n    font-weight: bold;\n    color: #333;\n    display: block;\n    line-height: 1;\n}\n\n.time-label {\n    font-size: 14px;\n    color: #666;\n    margin-top: 5px;\n}\n\n.colon {\n    font-size: 36px;\n    font-weight: bold;\n    color: #333;\n}\n</style>\n\n<!-- JavaScript à ajouter avant la fermeture du body -->\n<script>\n(function() {\n    // Démarrer le timer avec 10 minutes 08 secondes\n    const startTime = new Date().getTime();\n    const duration = (10 * 60 + 8) * 1000;\n    const endTime = startTime + duration;\n\n    function updateTimer() {\n        const now = new Date().getTime();\n        const timeLeft = endTime - now;\n\n        if (timeLeft <= 0) {\n            document.getElementById('days').textContent = '00';\n            document.getElementById('hours').textContent = '00';\n            document.getElementById('minutes').textContent = '00';\n            document.getElementById('seconds').textContent = '00';\n            return;\n        }\n\n        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));\n        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));\n        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);\n\n        document.getElementById('days').textContent = days.toString().padStart(2, '0');\n        document.getElementById('hours').textContent = hours.toString().padStart(2, '0');\n        document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');\n        document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');\n    }\n\n    updateTimer();\n    setInterval(updateTimer, 1000);\n})();\n</script>"
           }
-        },
-        "variant_picker_GbAMCT": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_Lf9yfT": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_eEkHTw": {
           "type": "buy_buttons",
@@ -330,10 +316,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_agtBbm": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -343,11 +325,8 @@
         "kaching_bundles_app_block_R8m9h4",
         "image_CwGGNn",
         "separator_6nrrQc",
-        "description_tefUhn",
-        "variant_picker_GbAMCT",
-        "quantity_selector_Lf9yfT",
-        "buy_buttons_eEkHTw",
-        "pickup_availability_agtBbm"
+        "liquid_DDi4wM",
+        "buy_buttons_eEkHTw"
       ],
       "name": "Featured product",
       "settings": {
