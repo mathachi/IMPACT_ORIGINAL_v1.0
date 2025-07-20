@@ -276,12 +276,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "rating_i7iw9f": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_6nrrQc": {
           "type": "separator",
           "settings": {}
@@ -325,7 +319,6 @@
       "block_order": [
         "title_AQ6aac",
         "kaching_bundles_app_block_R8m9h4",
-        "rating_i7iw9f",
         "separator_6nrrQc",
         "description_tefUhn",
         "variant_picker_GbAMCT",
