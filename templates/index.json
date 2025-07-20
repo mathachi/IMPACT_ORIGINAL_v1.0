@@ -324,6 +324,14 @@
             "alignment": "center",
             "max_width": 240
           }
+        },
+        "image_BWr7nT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trust_points.svg",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -335,7 +343,8 @@
         "separator_6nrrQc",
         "liquid_DDi4wM",
         "buy_buttons_eEkHTw",
-        "image_3CFFBU"
+        "image_3CFFBU",
+        "image_BWr7nT"
       ],
       "name": "Featured product",
       "settings": {
