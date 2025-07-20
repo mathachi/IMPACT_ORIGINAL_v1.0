@@ -241,7 +241,7 @@
         "item_JTRyzc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-4.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_ae0d51b1-4392-4356-876f-262f5516c0b7.png",
             "column_size": "3",
             "title": "Pierre M.",
             "heading_tag": "h5",
@@ -264,7 +264,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "",
