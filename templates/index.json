@@ -202,6 +202,45 @@
         "item_9BXAfX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/testimonial-before-after-2.png",
+            "column_size": "3",
+            "title": "Marc L.",
+            "heading_tag": "h5",
+            "content": "<p>\"Je faisais semblant de m’en foutre, mais chaque selfie me rappelait mes tempes dégarnies. Aujourd’hui, je n’ai plus besoin de chercher le bon angle. Collagix a non seulement restauré mes cheveux, mais a boosté ma confiance comme jamais.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MRmtjJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/testimonial-3.png",
+            "column_size": "3",
+            "title": "Kenji T.",
+            "heading_tag": "h5",
+            "content": "<p>\"J'avais perdu toute confiance… mes cheveux étaient fins, presque invisibles. Après Collagix, ils sont plus épais, plus forts. Aujourd'hui, je me sens enfin bien dans ma peau.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_etwE8X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/testimonial-2.png",
+            "column_size": "3",
+            "title": "Carlos R.",
+            "heading_tag": "h5",
+            "content": "<p>\"J’évitais les regards… Maintenant, je les cherche. C’est fou comme quelques centimètres de densité capillaire peuvent transformer une posture, une énergie. Et ça, aucun complément alimentaire ne l’avait jamais fait.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JTRyzc": {
+          "type": "item",
+          "settings": {
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -215,7 +254,10 @@
       "block_order": [
         "item_8zYfDe",
         "item_TBDTPX",
-        "item_9BXAfX"
+        "item_9BXAfX",
+        "item_MRmtjJ",
+        "item_etwE8X",
+        "item_JTRyzc"
       ],
       "name": "Multi-column",
       "settings": {
