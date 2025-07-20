@@ -96,7 +96,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/points_forts_blanc_2_2800_x_1000_px_be9eb0cf-cce1-4189-b0b5-dad12825e108.svg",
-            "mobile_image": "shopify://shop_images/points_forts_blanc_2_25427681-b5b2-4622-99b0-ac4a53a028cd.svg",
+            "mobile_image": "shopify://shop_images/points_forts_blanc_2_99fe43f4-8282-487b-b26c-888a70000bc8.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
