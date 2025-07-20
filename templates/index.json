@@ -372,9 +372,9 @@
       ],
       "name": "Featured product",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "product": "collagix-micro-infusion-capillaire-regenerante",
-        "desktop_media_width": 50,
+        "desktop_media_width": 40,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
