@@ -320,9 +320,9 @@
         "image_3CFFBU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/carte_bleu_etc.svg",
+            "image": "shopify://shop_images/carte_bleu_etc_1.svg",
             "alignment": "center",
-            "max_width": 300
+            "max_width": 240
           }
         }
       },
