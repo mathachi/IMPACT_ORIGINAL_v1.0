@@ -419,13 +419,21 @@
             "title": "Est-ce sans danger à utiliser ?",
             "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir une utilisation sécurisée à domicile.</p>"
           }
+        },
+        "item_ApArH7": {
+          "type": "item",
+          "settings": {
+            "title": "Quand vais-je commencer à voir des résultats ?",
+            "content": "<p>De nombreux utilisateurs constatent des améliorations visibles de la texture et de la croissance des cheveux en 4 à 6 semaines d'utilisation régulière. Les résultats peuvent varier d'une personne à l'autre.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_4yDTfY"
+        "item_4yDTfY",
+        "item_ApArH7"
       ],
       "settings": {
         "full_width": true,
