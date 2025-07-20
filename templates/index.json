@@ -395,8 +395,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment ça fonctionne ?",
+            "content": "<p>Le système utilise la technologie de micro-infusion pour délivrer des ingrédients actifs en profondeur dans le cuir chevelu, ciblant les follicules pileux afin de stimuler la pousse et de renforcer les cheveux.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -420,16 +420,16 @@
         "166442457738b23caf-2"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
