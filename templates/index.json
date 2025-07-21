@@ -311,8 +311,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#ffffff",
+            "atc_button_background": "#f0ffdf",
+            "atc_button_text_color": "#00a757",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -456,33 +456,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "17531132222f814aff": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_AxJtFn": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "collagix-micro-infusion-capillaire-regenerante"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_AxJtFn"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -494,7 +467,6 @@
     "custom_liquid_PMJXB8",
     "multi_column_i7rRy8",
     "featured_product_hdi7CT",
-    "faq",
-    "17531132222f814aff"
+    "faq"
   ]
 }
