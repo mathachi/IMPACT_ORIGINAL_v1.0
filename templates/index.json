@@ -398,7 +398,7 @@
             "image": "shopify://shop_images/dermato.png",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Validé par des Dermatologues",
+            "title": "Validé par les Dermatologues",
             "content": "<h5><br/>Notre technologie Micro Infusion, issue de plusieurs années de recherche et développée en collaboration avec des dermatologues et des experts capillaires, stoppe efficacement la chute des cheveux et stimule leur repousse. </h5><h5>Chaque composant de notre dispositif a été rigoureusement testé et validé cliniquement, garantissant des résultats sûrs, visibles et durables pour une chevelure plus dense et saine.<br/><br/></h5>",
             "button_url": "",
             "button_text": ""
@@ -431,6 +431,46 @@
         "background": "#b6d1f2",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "slideshow_pQqkbe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_FFRxNM": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FFRxNM"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "faq": {
@@ -513,6 +553,7 @@
     "featured_product_hdi7CT",
     "multiple_images_with_text_PJQLFb",
     "custom_liquid_yBWzLM",
+    "slideshow_pQqkbe",
     "faq"
   ]
 }
