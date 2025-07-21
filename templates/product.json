@@ -9,6 +9,90 @@
  */
 {
   "sections": {
+    "featured_product_c3EkNy": {
+      "type": "featured-product",
+      "blocks": {
+        "title_kfd98j": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_i9ctVA": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_L3WeJ6": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_HFKwVF": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_YARGAB": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker_BeAG8j": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_7UdpJW": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_TXJmXn": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_kfd98j",
+        "badges_i9ctVA",
+        "price_L3WeJ6",
+        "rating_HFKwVF",
+        "separator_YARGAB",
+        "variant_picker_BeAG8j",
+        "quantity_selector_7UdpJW",
+        "buy_buttons_TXJmXn"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "brosse-stimulante-pour-cuir-chevelu",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -16,12 +100,6 @@
           "type": "title",
           "settings": {
             "heading_tag": "h2"
-          }
-        },
-        "kaching_bundles_app_block_7DMWhq": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": ""
           }
         },
         "buy_buttons": {
@@ -38,7 +116,6 @@
       },
       "block_order": [
         "title",
-        "kaching_bundles_app_block_7DMWhq",
         "buy_buttons"
       ],
       "settings": {
@@ -61,6 +138,7 @@
     }
   },
   "order": [
+    "featured_product_c3EkNy",
     "main"
   ]
 }
