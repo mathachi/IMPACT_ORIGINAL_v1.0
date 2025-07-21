@@ -163,7 +163,7 @@
         "item_8zYfDe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-1.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_6_18dbf70d-29af-4dc9-9415-ee98c7651d5a.png",
             "column_size": "3",
             "title": "Damien G.",
             "heading_tag": "h5",
@@ -176,7 +176,7 @@
         "item_TBDTPX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_5.png",
             "column_size": "3",
             "title": "Martin C.",
             "heading_tag": "h5",
@@ -189,7 +189,7 @@
         "item_9BXAfX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-2.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_8.png",
             "column_size": "3",
             "title": "Marc L.",
             "heading_tag": "h5",
@@ -202,7 +202,7 @@
         "item_MRmtjJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-3.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_9.png",
             "column_size": "3",
             "title": "Kenji T.",
             "heading_tag": "h5",
@@ -215,7 +215,7 @@
         "item_etwE8X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-2.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_5ara.png",
             "column_size": "3",
             "title": "Carlos R.",
             "heading_tag": "h5",
@@ -228,7 +228,7 @@
         "item_JTRyzc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_4.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_6.png",
             "column_size": "3",
             "title": "Pierre M.",
             "heading_tag": "h5",
@@ -471,7 +471,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
