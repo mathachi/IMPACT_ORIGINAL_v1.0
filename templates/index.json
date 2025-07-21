@@ -440,6 +440,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/60_2800_x_1000_px.svg",
+            "mobile_image": "shopify://shop_images/60_1200_x_1600_px.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
