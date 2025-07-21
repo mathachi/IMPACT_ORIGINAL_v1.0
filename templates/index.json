@@ -433,53 +433,6 @@
         "text_color": ""
       }
     },
-    "tabs_9nNVzX": {
-      "type": "tabs",
-      "blocks": {
-        "tab_GtfR9c": {
-          "type": "tab",
-          "settings": {
-            "title": "Extrait de racine de Panax Ginseng",
-            "content": "<p><br/>L'extrait de racine de Panax Ginseng stimule les follicules capillaires paresseux et bloque naturellement l'excès de DHT, l'hormone qui freine la croissance des cheveux, ralentissant ainsi la chute presque immédiatement.</p>",
-            "page": ""
-          }
-        },
-        "tab_YhXw6m": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
-        "tab_bLgzrQ": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_GtfR9c",
-        "tab_YhXw6m",
-        "tab_bLgzrQ"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "large",
-        "subheading": "",
-        "title": "Les 3 mousquetaires de la croissance naturelle des cheveux",
-        "first_tab_open": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -560,7 +513,6 @@
     "featured_product_hdi7CT",
     "multiple_images_with_text_PJQLFb",
     "custom_liquid_yBWzLM",
-    "tabs_9nNVzX",
     "faq"
   ]
 }
