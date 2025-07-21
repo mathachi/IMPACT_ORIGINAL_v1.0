@@ -420,14 +420,27 @@
         "button_text_color": ""
       }
     },
+    "custom_liquid_yBWzLM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.ingredients-section {\n  padding: 60px 20px;\n  background: #B6D1F2;\n}\n\n.ingredients-container {\n  max-width: 1200px;\n  margin: 0 auto;\n}\n\n.ingredients-heading {\n  text-align: center;\n  font-size: 2rem;\n  font-weight: 600;\n  color: #333;\n  margin-bottom: 50px;\n  font-family: 'Arial', sans-serif;\n}\n\n.ingredients-grid {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 30px;\n  max-width: 1100px;\n  margin: 0 auto;\n}\n\n/* Mobile: scroll horizontal */\n@media (max-width: 768px) {\n  .ingredients-grid {\n    display: flex;\n    overflow-x: auto;\n    scroll-snap-type: x mandatory;\n    gap: 20px;\n    padding: 0 20px;\n    margin: 0 -5px;\n    padding-left: 20px;\n    scrollbar-width: none; /* Firefox */\n    -ms-overflow-style: none; /* Internet Explorer 10+ */\n  }\n  \n  .ingredient-card {\n    flex: 0 0 280px;\n    scroll-snap-align: start;\n  }\n  \n  .ingredients-grid::-webkit-scrollbar {\n    display: none; /* Chrome, Safari, Opera */\n  }\n}\n\n.ingredient-card {\n  position: relative;\n  border-radius: 15px;\n  overflow: hidden;\n  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);\n  transition: transform 0.3s ease, box-shadow 0.3s ease;\n  height: 300px;\n}\n\n.ingredient-card:hover {\n  transform: translateY(-5px);\n  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);\n}\n\n.ingredient-image {\n  position: relative;\n  height: 100%;\n  overflow: hidden;\n}\n\n.ingredient-image img {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  transition: transform 0.3s ease;\n}\n\n.ingredient-card:hover .ingredient-image img {\n  transform: scale(1.05);\n}\n\n.ingredient-overlay {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));\n  padding: 40px 25px 25px;\n  color: white;\n}\n\n.ingredient-title {\n  font-size: 0.5rem;\n  font-weight: 600;\n  margin-bottom: 10px;\n  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);\n}\n\n.ingredient-description {\n  font-size: 0.95rem;\n  line-height: 1.4;\n  margin: 0;\n  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);\n}\n\n@media (max-width: 768px) {\n  .ingredients-section {\n    padding: 40px 0;\n  }\n  \n  .ingredients-heading {\n    font-size: 2rem;\n    margin-bottom: 30px;\n    padding: 0 20px;\n  }\n  \n  .ingredient-card {\n    height: 250px;\n  }\n  \n  .ingredient-title {\n    font-size: 1.3rem;\n  }\n  \n  .ingredient-description {\n    font-size: 0.9rem;\n  }\n}\n</style>\n\n<section class=\"ingredients-section\">\n  <div class=\"ingredients-container\">\n    <h2 class=\"ingredients-heading\">Les 3 mousquetaires de la croissance naturelle des cheveux</h2>\n    \n    <div class=\"ingredients-grid\">\n      <!-- Ingrédient 1: Huile d'Onagre -->\n      <div class=\"ingredient-card\">\n        <div class=\"ingredient-image\">\n          <img \n            src=\"{{ 'huile-onagre.jpg' | asset_url }}\" \n            alt=\"Huile d'Onagre\"\n            loading=\"lazy\"\n          >\n          <div class=\"ingredient-overlay\">\n            <div class=\"ingredient-content\">\n              <h3 class=\"ingredient-title\">Huile d'Onagre</h3>\n              <p class=\"ingredient-description\">Raffermit visiblement les zones relâchées des bras et du cou grâce à ses acides gras essentiels qui restaurent l'élasticité cutanée.</p>\n            </div>\n          </div>\n        </div>\n      </div>\n\n      <!-- Ingrédient 2: Patchouli -->\n      <div class=\"ingredient-card\">\n        <div class=\"ingredient-image\">\n          <img \n            src=\"{{ 'patchouli.jpg' | asset_url }}\" \n            alt=\"Patchouli\"\n            loading=\"lazy\"\n          >\n          <div class=\"ingredient-overlay\">\n            <div class=\"ingredient-content\">\n              <h3 class=\"ingredient-title\">Patchouli</h3>\n              <p class=\"ingredient-description\">Stimule naturellement la production de collagène, redonnant fermeté et tonicité à votre peau pour un effet lifting immédiat.</p>\n            </div>\n          </div>\n        </div>\n      </div>\n\n      <!-- Ingrédient 3: Rose Musquée -->\n      <div class=\"ingredient-card\">\n        <div class=\"ingredient-image\">\n          <img \n            src=\"{{ 'rose-musquee.jpg' | asset_url }}\" \n            alt=\"Rose Musquée\"\n            loading=\"lazy\"\n          >\n          <div class=\"ingredient-overlay\">\n            <div class=\"ingredient-content\">\n              <h3 class=\"ingredient-title\">Rose Musquée</h3>\n              <p class=\"ingredient-description\">Régénère en profondeur les tissus cutanés abîmés grâce à ses antioxydants et acides gras qui luttent contre les signes du vieillissement.</p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</section>",
+        "background": "#b6d1f2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_9nNVzX": {
       "type": "tabs",
       "blocks": {
         "tab_GtfR9c": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Extrait de racine de Panax Ginseng",
+            "content": "<p><br/>L'extrait de racine de Panax Ginseng stimule les follicules capillaires paresseux et bloque naturellement l'excès de DHT, l'hormone qui freine la croissance des cheveux, ralentissant ainsi la chute presque immédiatement.</p>",
             "page": ""
           }
         },
@@ -456,10 +469,10 @@
       "name": "Tabs",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
-        "first_tab_open": false,
+        "content_size": "large",
+        "subheading": "",
+        "title": "Les 3 mousquetaires de la croissance naturelle des cheveux",
+        "first_tab_open": true,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -546,6 +559,7 @@
     "multi_column_i7rRy8",
     "featured_product_hdi7CT",
     "multiple_images_with_text_PJQLFb",
+    "custom_liquid_yBWzLM",
     "tabs_9nNVzX",
     "faq"
   ]
