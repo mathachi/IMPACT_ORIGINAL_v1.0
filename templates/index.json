@@ -439,7 +439,7 @@
         "image_FFRxNM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/60_2800_x_1000_px.svg",
+            "image": "shopify://shop_images/60_2800_1000.svg",
             "mobile_image": "shopify://shop_images/60_1200_x_1600_px.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
