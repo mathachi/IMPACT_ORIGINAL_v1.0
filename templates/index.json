@@ -413,9 +413,9 @@
         "full_width": true,
         "images_layout": "stacked",
         "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "button_background": "",
         "button_text_color": ""
       }
