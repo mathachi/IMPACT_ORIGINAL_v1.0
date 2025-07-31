@@ -420,6 +420,19 @@
         "button_text_color": ""
       }
     },
+    "custom_liquid_mznjWM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n\n<style>\n.results-title-section {\n  background: #000;\n  padding: 30px 20px;\n  margin: 0;\n  width: 100%;\n}\n\n.results-title-container {\n  max-width: 1200px;\n  margin: 0 auto;\n  text-align: center;\n}\n\n.results-title {\n  color: #fff;\n  font-size: 32px;\n  font-weight: 700;\n  font-family: 'Poppins', Arial, sans-serif;\n  margin: 0;\n  letter-spacing: 1px;\n}\n\n@media (max-width: 768px) {\n  .results-title-section {\n    padding: 0px 20px;\n    margin-left: calc(-50vw + 50%);\n    margin-right: calc(-50vw + 50%);\n    width: 100vw;\n  }\n  \n  .results-title {\n    font-size: 24px;\n    letter-spacing: 0.5px;\n  }\n}\n</style>\n\n<section class=\"results-title-section\">\n  <div class=\"results-title-container\">\n    <h2 class=\"results-title\">RÉSULTATS APRÈS 30 JOURS</h2>\n  </div>\n</section>",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_fRwTjt": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -622,6 +635,7 @@
     "multi_column_i7rRy8",
     "featured_product_hdi7CT",
     "multiple_images_with_text_PJQLFb",
+    "custom_liquid_mznjWM",
     "custom_liquid_fRwTjt",
     "custom_liquid_P6UfHA",
     "slideshow_GDJnP6",
