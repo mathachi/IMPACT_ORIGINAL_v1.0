@@ -71,7 +71,7 @@
           "settings": {
             "text": "Pourquoi tous les dermatologues nous conseillent ?",
             "heading_tag": "h5",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
@@ -84,9 +84,9 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#000000",
+        "background": "#d4cfcf",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "slideshow_CdGYYi": {
@@ -95,8 +95,8 @@
         "image_REaYmQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/points_forts_noir_6_2800_x_1000_px.svg",
-            "mobile_image": "shopify://shop_images/points_forts_noir_6.svg",
+            "image": "shopify://shop_images/points_forts_gris_6_2800_x_1000_px.svg",
+            "mobile_image": "shopify://shop_images/points_forts_gris6.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
