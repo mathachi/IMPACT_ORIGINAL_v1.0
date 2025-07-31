@@ -71,7 +71,7 @@
           "settings": {
             "text": "Pourquoi tous les dermatologues nous conseillent ?",
             "heading_tag": "h5",
-            "text_color": "#000000",
+            "text_color": "#ffffff",
             "gradient": ""
           }
         }
@@ -84,7 +84,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#d4cfcf",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#000000"
       }
