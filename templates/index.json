@@ -377,7 +377,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Vous avez utilisé plein de traitements inefficaces, qu'est ce qui nous différencie ?",
-            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La clé de la véritable repousse capillaire est de délivrer la formule en profondeur jusqu'aux racines, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une absorption maximale, tandis qu'un puissant mélange de racine de Ginseng, de Menthe Poivrée et d'extrait d'Eclipta Prostata agit pour bloquer la DHT, détoxifier le cuir chevelu et réactiver les follicules dormants. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
+            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La <strong>clé </strong>de la véritable <strong>repousse capillaire</strong> est de délivrer la formule <strong>en profondeur jusqu'aux racines</strong>, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une <strong>absorption maximale</strong>, tandis qu'un puissant mélange de racine de <strong>Ginseng</strong>, de <strong>Menthe Poivrée</strong> et d'extrait d'<strong>Eclipta Prostata</strong> agit pour <strong>bloquer la DHT</strong>, <strong>détoxifier le cuir chevelu</strong> et <strong>réactiver les follicules dormants</strong>. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
           }
         }
       },
@@ -588,6 +588,13 @@
             "title": "Les têtes d'aiguilles sont-elles réutilisables ?",
             "content": "<p>Oui bien sûr, cependant, une fois les trois sessions de traitement complétées sur 45 jours, la tête à aiguille doit impérativement être jetée.</p><p>Pour nettoyer la tête à aiguille, rincez-la à l’eau tiède, puis appliquez un antiseptique ou de l’alcool doux (70°) par aspersion ou immersion. Rincez à nouveau à l’eau tiède et laissez sécher complètement à l’air libre.</p>"
           }
+        },
+        "item_JaGFry": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr à utiliser ?",
+            "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir qu'il est sûr pour une utilisation à domicile.</p>"
+          }
         }
       },
       "block_order": [
@@ -596,7 +603,8 @@
         "166442457738b23caf-2",
         "item_4yDTfY",
         "item_ApArH7",
-        "item_NLUEG7"
+        "item_NLUEG7",
+        "item_JaGFry"
       ],
       "settings": {
         "full_width": true,
