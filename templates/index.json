@@ -372,6 +372,13 @@
             "title": "Expédition et retours",
             "content": "<p><strong>Livraison offerte</strong><br/>La livraison est offerte pour toute commande supérieure à 40 €.</p><p><strong>Délai d'expédition</strong><br/>La plupart des commandes sont expédiées sous un jour ouvrable et livrées dans un délai de 7 à 10 jours ouvrables.</p><p><strong>Expédition mondiale</strong><br/>Nous expédions également vers la plupart des pays internationaux.</p><p><strong>Retours</strong><br/><strong>Satisfaction garantie à 100 %</strong><br/>Oui, nous acceptons les retours dans les 60 jours suivant la réception pour un remboursement complet, même pour les produits utilisés et ouverts.</p>"
           }
+        },
+        "collapsible_text_HLinj9": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Vous avez utilisé plein de traitements inefficaces, qu'est ce qui nous différencie ?",
+            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La clé de la véritable repousse capillaire est de délivrer la formule en profondeur jusqu'aux racines, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une absorption maximale, tandis qu'un puissant mélange de racine de Ginseng, de Menthe Poivrée et d'extrait d'Eclipta Prostata agit pour bloquer la DHT, détoxifier le cuir chevelu et réactiver les follicules dormants. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
+          }
         }
       },
       "block_order": [
@@ -390,7 +397,8 @@
         "collapsible_text_4iKAmQ",
         "collapsible_text_EdcYhU",
         "collapsible_text_QBfBwK",
-        "collapsible_text_AqFkBY"
+        "collapsible_text_AqFkBY",
+        "collapsible_text_HLinj9"
       ],
       "name": "Featured product",
       "settings": {
