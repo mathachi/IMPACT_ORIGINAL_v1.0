@@ -339,6 +339,12 @@
             "max_width": 500
           }
         },
+        "liquid_eRYphJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "collapsible_text_4iKAmQ": {
           "type": "collapsible_text",
           "settings": {
@@ -380,6 +386,7 @@
         "buy_buttons_eEkHTw",
         "image_3CFFBU",
         "image_BWr7nT",
+        "liquid_eRYphJ",
         "collapsible_text_4iKAmQ",
         "collapsible_text_EdcYhU",
         "collapsible_text_QBfBwK",
