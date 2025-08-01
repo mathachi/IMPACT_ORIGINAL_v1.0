@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_PC_1_a040d559-0fd6-473f-b64f-30284ef60497.svg",
-            "mobile_image": "shopify://shop_images/REVOLUTION_DU_TRAITEMENT_DE_VOS_CHEVEUX_AVEC_LA_MICRO_FUSION._2.svg",
+            "image": "shopify://shop_images/BANNER_PC_2.svg",
+            "mobile_image": "shopify://shop_images/REVOLUTION_DU_TRAITEMENT_DE_VOS_CHEVEUX_AVEC_LA_MICRO_FUSION._3.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
