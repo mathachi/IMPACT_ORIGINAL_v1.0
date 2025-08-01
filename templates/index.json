@@ -595,6 +595,13 @@
             "title": "Est-ce sûr à utiliser ?",
             "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir qu'il est sûr pour une utilisation à domicile.</p>"
           }
+        },
+        "item_JYGxNy": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr à utiliser ?",
+            "content": "<p>Une fois que les niveaux de DHT sont <strong>réduits</strong>, que votre cuir chevelu est <strong>détoxifié </strong>et que de <strong>nouveaux cheveux</strong> <strong>ont poussé</strong>, il faudra des mois, voire des années, avant que le DHT ne s'accumule à nouveau.</p><p>Cependant, pour des <strong>bienfaits durables </strong>et une <strong>croissance continue</strong> des cheveux, nous vous recommandons de continuer votre traitement jusqu'à que vous soyez <strong>entièrement satisfait</strong>.</p>"
+          }
         }
       },
       "block_order": [
@@ -604,7 +611,8 @@
         "item_4yDTfY",
         "item_ApArH7",
         "item_NLUEG7",
-        "item_JaGFry"
+        "item_JaGFry",
+        "item_JYGxNy"
       ],
       "settings": {
         "full_width": true,
