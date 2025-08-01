@@ -95,8 +95,8 @@
         "image_REaYmQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/points_forts_gris_6_ligne_2800_x_1000_px_1.svg",
-            "mobile_image": "shopify://shop_images/points_forts_gris_ligne_6_1.svg",
+            "image": "shopify://shop_images/points_forts_bleu_6_ligne_2800_x_1000_px_1.svg",
+            "mobile_image": "shopify://shop_images/points_forts_bleu_ligne_6.svg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
