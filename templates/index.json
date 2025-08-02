@@ -432,6 +432,32 @@
         "text_color": ""
       }
     },
+    "rich_text_mxRUez": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RDjzWt": {
+          "type": "heading",
+          "settings": {
+            "text": "3 Étapes comme un jeu d'enfant !",
+            "heading_tag": "h3",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_RDjzWt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_MttGWz": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -695,6 +721,7 @@
     "multi_column_i7rRy8",
     "featured_product_hdi7CT",
     "custom_liquid_yBWzLM",
+    "rich_text_mxRUez",
     "custom_liquid_MttGWz",
     "multiple_images_with_text_PJQLFb",
     "custom_liquid_mznjWM",
