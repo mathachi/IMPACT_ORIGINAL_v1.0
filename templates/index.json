@@ -439,7 +439,7 @@
           "type": "heading",
           "settings": {
             "text": "3 Étapes comme un jeu d'enfant !",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_color": "#000000",
             "gradient": ""
           }
