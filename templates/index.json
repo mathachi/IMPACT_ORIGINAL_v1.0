@@ -371,7 +371,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Expédition et retours",
-            "content": "<p><strong>Livraison offerte</strong><br/>La livraison est offerte pour toute commande supérieure à 40 €.</p><p><strong>Délai d'expédition</strong><br/>La plupart des commandes sont expédiées sous un jour ouvrable et livrées dans un délai de 7 à 10 jours ouvrables.</p><p><strong>Expédition mondiale</strong><br/>Nous expédions également vers la plupart des pays internationaux.</p><p><strong>Retours</strong><br/><strong>Satisfaction garantie à 100 %</strong><br/>Oui, nous acceptons les retours dans les 60 jours suivant la réception pour un remboursement complet, même pour les produits utilisés et ouverts.</p>"
+            "content": "<p><strong>Livraison offerte</strong><br/>La livraison est offerte pour toute commande supérieure à 40 €.</p><p><strong>Délai d'expédition</strong><br/>La plupart des commandes sont expédiées sous un jour ouvrable et livrées dans un délai de 12 jours ouvrables.</p><p><strong>Expédition mondiale</strong><br/>Nous expédions également vers la plupart des pays internationaux.</p><p><strong>Retours</strong><br/><strong>Satisfaction garantie à 100 %</strong><br/>Oui, nous acceptons les retours dans les 60 jours suivant la réception pour un remboursement complet, même pour les produits utilisés et ouverts.</p>"
           }
         },
         "collapsible_text_HLinj9": {
