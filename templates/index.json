@@ -438,15 +438,22 @@
         "heading_RDjzWt": {
           "type": "heading",
           "settings": {
-            "text": "3 Étapes comme un jeu d'enfant !",
-            "heading_tag": "h5",
+            "text": "Un Jeu d'enfant",
+            "heading_tag": "h1",
             "text_color": "#000000",
             "gradient": ""
+          }
+        },
+        "richtext_7H6bFV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h5><strong>Pour redevenir comme un enfant !</strong></h5>"
           }
         }
       },
       "block_order": [
-        "heading_RDjzWt"
+        "heading_RDjzWt",
+        "richtext_7H6bFV"
       ],
       "name": "Rich text",
       "settings": {
