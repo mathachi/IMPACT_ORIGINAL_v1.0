@@ -70,7 +70,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi les experts valident notre solution ?",
-            "heading_tag": "h5",
+            "heading_tag": "h6",
             "text_color": "#000000",
             "gradient": ""
           }
