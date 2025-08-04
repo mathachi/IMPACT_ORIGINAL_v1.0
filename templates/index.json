@@ -160,19 +160,6 @@
     "multi_column_i7rRy8": {
       "type": "multi-column",
       "blocks": {
-        "item_9BXAfX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_8.png",
-            "column_size": "3",
-            "title": "Marc L.",
-            "heading_tag": "h5",
-            "content": "<h6>\"Je faisais semblant de m’en foutre, mais c'était faux. Aujourd’hui, Collagix m'a redonné ma jeunesse.\"</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_8zYfDe": {
           "type": "item",
           "settings": {
@@ -225,6 +212,19 @@
             "link_style": "link"
           }
         },
+        "item_9BXAfX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/testimonial-before-after-5_8.png",
+            "column_size": "3",
+            "title": "Marc L.",
+            "heading_tag": "h5",
+            "content": "<h6>\"Je faisais semblant de m’en foutre, mais c'était faux. Aujourd’hui, Collagix m'a redonné ma jeunesse.\"</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_JTRyzc": {
           "type": "item",
           "settings": {
@@ -240,11 +240,11 @@
         }
       },
       "block_order": [
-        "item_9BXAfX",
         "item_8zYfDe",
         "item_TBDTPX",
         "item_MRmtjJ",
         "item_etwE8X",
+        "item_9BXAfX",
         "item_JTRyzc"
       ],
       "name": "Multi-column",
