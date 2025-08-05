@@ -491,11 +491,11 @@
         "item_7bRCFN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/output-assetsV2_IkD0MqdpGJgIhcAWVzBj_asset.png",
+            "image": "shopify://shop_images/depositphotos_39179963-stock-photo-male-doctor-with-laptop-at.webp",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Validé par les Dermatologues",
-            "content": "<h4><br/><br/>Notre technologie Micro Infusion stoppe la chute des cheveux et stimule leur repousse.<br/><br/>Tous les composants ont été testés cliniquement pour garantir des résultats sûrs, visibles et durables.<br/><br/><br/></h4>",
+            "content": "<h5><br/><em>\"La DHT est la principale cause de la calvitie chez l'homme. Elle réduit la force des follicules et les endort.<br/><br/>Collagix s'attaque directement à ce problème grâce a cette nouvelle technologique innovante qui va permettre de redonner toute la confiance en soi à beaucoup d'hommes.\"</em></h5>",
             "button_url": "",
             "button_text": ""
           }
