@@ -297,7 +297,7 @@
         "image_CwGGNn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/50.svg",
+            "image": "shopify://shop_images/derniere_chance.jpg",
             "alignment": "center",
             "max_width": 500
           }
