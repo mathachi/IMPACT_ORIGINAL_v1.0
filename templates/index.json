@@ -442,14 +442,24 @@
     "rich_text_mxRUez": {
       "type": "rich-text",
       "blocks": {
+        "heading_RDjzWt": {
+          "type": "heading",
+          "settings": {
+            "text": "3 Étapes si simple pour un résultat bouleversant",
+            "heading_tag": "h3",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        },
         "richtext_7H6bFV": {
           "type": "richtext",
           "settings": {
-            "content": "<h1><br/>3 Étapes si simple pour un résultat bouleversant</h1>"
+            "content": ""
           }
         }
       },
       "block_order": [
+        "heading_RDjzWt",
         "richtext_7H6bFV"
       ],
       "name": "Rich text",
