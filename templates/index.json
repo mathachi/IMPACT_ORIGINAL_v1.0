@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/banner_pc_bleu_2.jpg",
-            "mobile_image": "shopify://shop_images/banner_mobile_homme_bleu_60_2.jpg",
+            "mobile_image": "shopify://shop_images/new_banner_mobile_homme_bleu_60_2_1.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
