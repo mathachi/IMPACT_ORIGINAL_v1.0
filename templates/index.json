@@ -93,7 +93,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/points_forts_bleu_6_ligne_2800_x_1000_px_3.jpg",
-            "mobile_image": "shopify://shop_images/points_forts_bleu_ligne_6_2_400_x_450_px_test.jpg",
+            "mobile_image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_400_x_450_px_test_1.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
