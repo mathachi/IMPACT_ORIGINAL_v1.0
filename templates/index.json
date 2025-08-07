@@ -654,7 +654,7 @@
           "type": "item",
           "settings": {
             "title": "Quelle est la liste complète des ingrédients ?",
-            "content": "<p>Menthol,Huile de menthe poivrée (Mentha Piperita),Extrait de racine de ginseng (Panax Ginseng),Extrait de racine d'anémarrhène asphodéloïde (Anemarrhena Asphodeloides),Extrait de racine de gingembre (Zingiber Officinale),Huile de romarin,Extrait de sésame noir,Extrait de racine de réglisse,Extrait de racine d’angélique chinoise (Angelica Polymorpha Sinensis),Acide citrique,Extrait de feuille de thuya d’Orient (Platycladus Orientalis),Extrait de sophora jaune (Sophora Flavescens),Extrait de feuille de biota orientalis,Extrait de racine de renouée multiflore (Polygonum Multiflorum),Extrait d’eclipta prostrée (Eclipta Prostrata),Extrait d’écorce de quinquina (Cinchona Pubescens)</p>"
+            "content": "<p>Menthol, Huile de menthe poivrée, Extrait de racine de ginseng, Extrait de racine d'anémarrhène asphodéloïde, Extrait de racine de gingembre, Huile de romarin, Extrait de sésame noir, Extrait de racine de réglisse, Extrait de racine d’angélique chinoise, Acide citrique, Extrait de feuille de thuya d’Orient, Extrait de sophora jaune, Extrait de feuille de biota orientalis, Extrait de racine de renouée multiflore, Extrait d’eclipta prostrée, Extrait d’écorce de quinquina.</p>"
           }
         }
       },
