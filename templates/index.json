@@ -362,13 +362,6 @@
             "content": "<p><strong>Eclipta Prostrata</strong> → Stimule les follicules plus efficacement que le Minoxidil.<br/><strong>Ginseng (Panax Ginseng)</strong> → Bloque le DHT et relance la repousse naturelle.<br/><strong>Menthe poivrée & Gingembre</strong> → Boostent la circulation pour des cheveux plus épais.<br/><strong>Romarin</strong> → Favorise la repousse en cas de calvitie hormonale.</p>"
           }
         },
-        "collapsible_text_QBfBwK": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
-          }
-        },
         "collapsible_text_AqFkBY": {
           "type": "collapsible_text",
           "settings": {
@@ -400,7 +393,6 @@
         "liquid_Ef4Nwe",
         "collapsible_text_4iKAmQ",
         "collapsible_text_EdcYhU",
-        "collapsible_text_QBfBwK",
         "collapsible_text_AqFkBY",
         "collapsible_text_HLinj9"
       ],
@@ -615,6 +607,13 @@
             "content": "<p><strong>Application ultra-fine, 100 % indolore.</strong><br/>Grâce à ses micro-aiguilles de 0,05 mm (aussi fines qu’un cheveu), l’application est quasi imperceptible — juste un léger picotement.</p><p><strong>Formule haut de gamme, ultra sûre.</strong><br/>Testé par des dermatologues, facile à utiliser, stérile, sans parfum, sans parabènes, sans BHA et non testé sur les animaux.<br/>✅ Aucun effet indésirable.</p>"
           }
         },
+        "item_WFGA8P": {
+          "type": "item",
+          "settings": {
+            "title": "Vous avez utilisé plein de traitements inefficaces, qu'est ce qui nous différencie ?",
+            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La <strong>clé </strong>de la véritable <strong>repousse capillaire</strong> est de délivrer la formule <strong>en profondeur jusqu'aux racines</strong>, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une <strong>absorption maximale</strong>, tandis qu'un puissant mélange de racine de <strong>Ginseng</strong>, de <strong>Menthe Poivrée</strong> et d'extrait d'<strong>Eclipta Prostata</strong> agit pour <strong>bloquer la DHT</strong>, <strong>détoxifier le cuir chevelu</strong> et <strong>réactiver les follicules dormants</strong>. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
+          }
+        },
         "item_ApArH7": {
           "type": "item",
           "settings": {
@@ -663,6 +662,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_4yDTfY",
+        "item_WFGA8P",
         "item_ApArH7",
         "item_NLUEG7",
         "item_JaGFry",
