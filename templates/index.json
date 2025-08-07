@@ -365,15 +365,15 @@
         "collapsible_text_AqFkBY": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Expédition et retours",
-            "content": "<p><strong>Livraison offerte</strong><br/>La livraison est offerte pour toute commande supérieure à 40 €.</p><p><strong>Délai d'expédition</strong><br/>La plupart des commandes sont expédiées sous un jour ouvrable et livrées dans un délai de 12 jours ouvrables.</p><p><strong>Expédition mondiale</strong><br/>Nous expédions également vers la plupart des pays internationaux.</p><p><strong>Retours</strong><br/><strong>Satisfaction garantie à 100 %</strong><br/>Oui, nous acceptons les retours dans les 60 jours suivant la réception pour un remboursement complet, même pour les produits utilisés et ouverts.</p>"
+            "title": "Livraison à domicile",
+            "content": "<p>La <strong>livraison à domicile</strong> est <strong>gratuite </strong>pour votre confort. Le délai de livraison est estimé de <strong>8 à 12 jours ouvrés</strong>. </p>"
           }
         },
-        "collapsible_text_HLinj9": {
+        "collapsible_text_XX7HeA": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Vous avez utilisé plein de traitements inefficaces, qu'est ce qui nous différencie ?",
-            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La <strong>clé </strong>de la véritable <strong>repousse capillaire</strong> est de délivrer la formule <strong>en profondeur jusqu'aux racines</strong>, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une <strong>absorption maximale</strong>, tandis qu'un puissant mélange de racine de <strong>Ginseng</strong>, de <strong>Menthe Poivrée</strong> et d'extrait d'<strong>Eclipta Prostata</strong> agit pour <strong>bloquer la DHT</strong>, <strong>détoxifier le cuir chevelu</strong> et <strong>réactiver les follicules dormants</strong>. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
+            "title": "60 jours Satisfait ou Remboursé",
+            "content": "<p>Essayez Collagix <strong>pendant 60 jours</strong> sans risque. Si vous n'êtes pas satisfait, vous avez la possibilité de demander <strong>un remboursement intégral</strong>.</p>"
           }
         }
       },
@@ -394,7 +394,7 @@
         "collapsible_text_4iKAmQ",
         "collapsible_text_EdcYhU",
         "collapsible_text_AqFkBY",
-        "collapsible_text_HLinj9"
+        "collapsible_text_XX7HeA"
       ],
       "name": "Featured product",
       "settings": {
