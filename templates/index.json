@@ -122,7 +122,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "auto",
+        "image_size": "md",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": false,
@@ -551,8 +551,8 @@
         "image_FFRxNM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/60_2800_x_1000_px.svg",
-            "mobile_image": "shopify://shop_images/60_1200_x_1600_px.svg",
+            "image": "shopify://shop_images/60_marine_2800_1000_1.svg",
+            "mobile_image": "shopify://shop_images/60_marine_1200_x_1600_px_1.svg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
