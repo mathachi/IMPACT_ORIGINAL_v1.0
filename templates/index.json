@@ -66,18 +66,15 @@
     "rich_text_KjKrGJ": {
       "type": "rich-text",
       "blocks": {
-        "heading_JTFyUy": {
-          "type": "heading",
+        "richtext_dPgdDL": {
+          "type": "richtext",
           "settings": {
-            "text": "Pourquoi les experts valident notre solution ?",
-            "heading_tag": "h6",
-            "text_color": "#000000",
-            "gradient": ""
+            "content": "<h3><strong><br/>Pourquoi les experts valident notre solution ?</strong></h3>"
           }
         }
       },
       "block_order": [
-        "heading_JTFyUy"
+        "richtext_dPgdDL"
       ],
       "name": "Rich text",
       "settings": {
@@ -96,7 +93,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/points_forts_bleu_6_ligne_2800_x_1000_px_3.jpg",
-            "mobile_image": "shopify://shop_images/points_forts_bleu_ligne_6_2.jpg",
+            "mobile_image": "shopify://shop_images/points_forts_bleu_ligne_6_2_400_x_450_px_test.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -127,7 +124,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
+        "background": "#ffffff",
         "background_gradient": ""
       }
     },
