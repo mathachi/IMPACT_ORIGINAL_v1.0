@@ -649,6 +649,13 @@
             "title": "Les aiguilles laissent des marques ?",
             "content": "<p><strong>Non</strong>, le produit ne laisse <strong>aucune marque ni rougeur</strong>. Les aiguilles sont ultra-fines, mesurant 0,5 mm. Elles sont conçues pour être <strong>douces </strong>et <strong>indolores </strong>tout en garantissant une <strong>diffusion efficace</strong> du sérum dans le <strong>cuir chevelu</strong>.</p>"
           }
+        },
+        "item_ACDyGk": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la liste complète des ingrédients ?",
+            "content": "<p>Menthol,Huile de menthe poivrée (Mentha Piperita),Extrait de racine de ginseng (Panax Ginseng),Extrait de racine d'anémarrhène asphodéloïde (Anemarrhena Asphodeloides),Extrait de racine de gingembre (Zingiber Officinale),Huile de romarin,Extrait de sésame noir,Extrait de racine de réglisse,Extrait de racine d’angélique chinoise (Angelica Polymorpha Sinensis),Acide citrique,Extrait de feuille de thuya d’Orient (Platycladus Orientalis),Extrait de sophora jaune (Sophora Flavescens),Extrait de feuille de biota orientalis,Extrait de racine de renouée multiflore (Polygonum Multiflorum),Extrait d’eclipta prostrée (Eclipta Prostrata),Extrait d’écorce de quinquina (Cinchona Pubescens)</p>"
+          }
         }
       },
       "block_order": [
@@ -660,7 +667,8 @@
         "item_NLUEG7",
         "item_JaGFry",
         "item_JYGxNy",
-        "item_LKUPbG"
+        "item_LKUPbG",
+        "item_ACDyGk"
       ],
       "settings": {
         "full_width": true,
