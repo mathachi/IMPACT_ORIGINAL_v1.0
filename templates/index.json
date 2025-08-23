@@ -288,7 +288,7 @@
         "kaching_bundles_app_block_R8m9h4": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "collagix-micro-infusion-regeneration-capillaire"
           }
         },
         "image_CwGGNn": {
@@ -401,9 +401,9 @@
         "full_width": true,
         "product": "collagix-micro-infusion-regeneration-capillaire",
         "desktop_media_width": 45,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "contained",
-        "mobile_carousel_control": "thumbnails",
+        "mobile_carousel_control": "free_scroll",
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "enable_image_zoom": false,
