@@ -160,7 +160,7 @@
         "item_8zYfDe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_6_18dbf70d-29af-4dc9-9415-ee98c7651d5a.png",
+            "image": "shopify://shop_images/avant_apres_3_1.jpg",
             "column_size": "3",
             "title": "Damien G.",
             "heading_tag": "h5",
@@ -173,7 +173,7 @@
         "item_TBDTPX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_5.png",
+            "image": "shopify://shop_images/avant_apres_4_1.jpg",
             "column_size": "3",
             "title": "Martin C.",
             "heading_tag": "h5",
@@ -199,7 +199,7 @@
         "item_etwE8X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_5ara.png",
+            "image": "shopify://shop_images/avant_apres_6_1.jpg",
             "column_size": "3",
             "title": "Carlos R.",
             "heading_tag": "h5",
@@ -225,7 +225,7 @@
         "item_JTRyzc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_6.png",
+            "image": "shopify://shop_images/avant_apres_5.jpg",
             "column_size": "3",
             "title": "Pierre M.",
             "heading_tag": "h5",
