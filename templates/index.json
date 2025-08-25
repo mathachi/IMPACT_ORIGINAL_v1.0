@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new_banner_pc_bleu_marine_3_1.jpg",
-            "mobile_image": "shopify://shop_images/new_banner_mobile_homme_bleu_marine_60_3_1.jpg",
+            "image": "shopify://shop_images/new_banner_pc_bleu_marine_3_1.webp",
+            "mobile_image": "shopify://shop_images/new_banner_mobile_homme_bleu_marine_60_3_1_1.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -92,8 +92,8 @@
         "image_REaYmQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_2800_x_1000_px_1.jpg",
-            "mobile_image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_4_1.jpg",
+            "image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_2800_x_1000_px_1.webp",
+            "mobile_image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_4_1.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -160,7 +160,7 @@
         "item_8zYfDe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_3_1.jpg",
+            "image": "shopify://shop_images/avant_apres_3_1.webp",
             "column_size": "3",
             "title": "Damien G.",
             "heading_tag": "h5",
@@ -173,7 +173,7 @@
         "item_TBDTPX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_4_1.jpg",
+            "image": "shopify://shop_images/avant_apres_4_1.webp",
             "column_size": "3",
             "title": "Martin C.",
             "heading_tag": "h5",
@@ -186,7 +186,7 @@
         "item_MRmtjJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_9.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_9.webp",
             "column_size": "3",
             "title": "Kenji T.",
             "heading_tag": "h5",
@@ -199,7 +199,7 @@
         "item_etwE8X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_6_1.jpg",
+            "image": "shopify://shop_images/avant_apres_6_1.webp",
             "column_size": "3",
             "title": "Carlos R.",
             "heading_tag": "h5",
@@ -212,7 +212,7 @@
         "item_9BXAfX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_8.png",
+            "image": "shopify://shop_images/testimonial-before-after-5_8.webp",
             "column_size": "3",
             "title": "Marc L.",
             "heading_tag": "h5",
@@ -225,7 +225,7 @@
         "item_JTRyzc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_5.jpg",
+            "image": "shopify://shop_images/avant_apres_5.webp",
             "column_size": "3",
             "title": "Pierre M.",
             "heading_tag": "h5",
