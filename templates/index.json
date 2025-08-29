@@ -91,7 +91,6 @@
       "blocks": {
         "image_REaYmQ": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_2800_x_1000_px_1.webp",
             "mobile_image": "shopify://shop_images/points_forts_bleu_marine_ligne_6_2_800x_900_px_4_1.webp",
