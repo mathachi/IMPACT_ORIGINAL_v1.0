@@ -75,9 +75,9 @@
       ],
       "settings": {
         "full_width": false,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "title": "",
-        "heading_tag": "h4",
+        "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
