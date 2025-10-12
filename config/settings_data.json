@@ -36,7 +36,7 @@
     "heading_letter_spacing": -2,
     "text_font": "poppins_n4",
     "currency_code_enabled": false,
-    "show_page_transition": true,
+    "show_page_transition": false,
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
@@ -69,11 +69,6 @@
       },
       "11532412952436166569": {
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      },
-      "17899005752291538835": {
-        "type": "shopify://apps/loadify-preloader/blocks/loadify-block/a901f8d1-8a96-4e38-a7d8-fdf18b278bfc",
         "disabled": false,
         "settings": {}
       }
