@@ -6,7 +6,7 @@
     <meta name="theme-color" content="{{ settings.header_background }}">
 
     <title>{% if page_title == blank %}{{ shop.name }}{% else %}{{ page_title }}{% if current_page != 1 %} &ndash; {{ 'general.page' | t: page: current_page }}{% endif %}{% endif %}</title>
- 
+   
     {%- if page_description -%}
       <meta name="description" content="{{ page_description | escape }}">
     {%- endif -%}
@@ -35,7 +35,7 @@
 <style>@font-face{font-family:"{{ settings.text_font.family }}";src:url("{{ settings.text_font | font_url }}");font-display:swap;}</style>
 {%- endunless -%}
 
-    {%- render 'social-meta-tags' -%}
+    {%- render 'social-meta-tags' -%} 
     {%- render 'microdata-schema' -%}
     {%- render 'css-variables' -%}
     {%- render 'js-variables' -%} 
