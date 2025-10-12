@@ -5,6 +5,7 @@
   {%- assign card_background = section.settings.product_card_background | default: settings.product_card_background -%}
   {%- assign card_blends = false -%}
 
+  
   {%- unless section_background != 'rgba(0,0,0,0)' and card_background != 'rgba(0,0,0,0)' and section_background != card_background -%}
     {%- assign card_blends = true -%}
   {%- endunless -%}
