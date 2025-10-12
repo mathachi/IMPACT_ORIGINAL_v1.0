@@ -36,9 +36,9 @@
     {%- endunless -%}
 
     {%- unless settings.text_font.system? -%}
-<link rel="preload" href="{{ settings.text_font | font_url }}" as="font" type="font/woff2" crossorigin>
-<style>@font-face{font-family:"{{ settings.text_font.family }}";src:url("{{ settings.text_font | font_url }}");font-display:swap;}</style>
-{%- endunless -%}
+    <link rel="preload" href="{{ settings.text_font | font_url }}" as="font" type="font/woff2" crossorigin>
+    <style>@font-face{font-family:"{{ settings.text_font.family }}";src:url("{{ settings.text_font | font_url }}");font-display:swap;}</style>
+    {%- endunless -%}
 
     <script type="module" src="{{ 'vendor.min.js' | asset_url }}"></script>
     <script type="module" src="{{ 'theme.js' | asset_url }}"></script>
@@ -79,4 +79,4 @@
       {%- endif -%}
     </main>
   </body>
-</html> 
+</html>  
