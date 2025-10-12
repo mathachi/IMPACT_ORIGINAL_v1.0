@@ -1,4 +1,4 @@
-{%- comment -%}
+{%- comment -%} 
 This snippet structures the micro-data using JSON-LD specification. Please note that for Product especially,
 the schema often changes. We try to output as much info as possible, but Google may add new requirements over time,
 or change the format of some info
@@ -63,13 +63,6 @@ or change the format of some info
       },
     {%- endif -%}
 
-
-
-
-
-
-
-  
     "brand": {
       "@type": "Brand",
       "name": {{ product.vendor | json }}
