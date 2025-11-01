@@ -50,7 +50,7 @@
         "message_V7BmwV"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "text_size": "text-lg",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
