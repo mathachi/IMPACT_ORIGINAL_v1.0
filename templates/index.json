@@ -50,6 +50,48 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "slideshow_JNG6nP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KnKfn4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banniere-logo.webp",
+            "mobile_image": "shopify://shop_images/banniere-logo.webp",
+            "content_max_width": 400,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KnKfn4"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "custom_liquid_EBFVyj": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -288,7 +330,8 @@
         "kaching_bundles_app_block_R8m9h4": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "collagix-micro-infusion-regeneration-capillaire"
+            "product": "collagix-micro-infusion-regeneration-capillaire",
+            "manual_deal_block_id": ""
           }
         },
         "image_CwGGNn": {
@@ -742,6 +785,7 @@
   },
   "order": [
     "slideshow",
+    "slideshow_JNG6nP",
     "custom_liquid_EBFVyj",
     "rich_text_KjKrGJ",
     "slideshow_CdGYYi",
