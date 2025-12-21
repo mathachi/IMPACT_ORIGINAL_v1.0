@@ -56,8 +56,8 @@
         "image_KnKfn4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banniere-logo.webp",
-            "mobile_image": "shopify://shop_images/banniere-logo.webp",
+            "image": "shopify://shop_images/banniere-logo-_1240-x-120-px_-_2.webp",
+            "mobile_image": "shopify://shop_images/banniere-logo-_1240-x-120-px_-_2.webp",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
