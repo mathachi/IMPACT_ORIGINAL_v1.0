@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/new_banner_pc_bleu_marine_3_1.webp",
-            "mobile_image": "shopify://shop_images/new_banner_mobile_homme_bleu_marine_60_3_1_1.webp",
+            "mobile_image": "shopify://shop_images/image_hero_mobile_2026.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
