@@ -307,7 +307,7 @@
             "average-rating": true,
             "loox-branding": false,
             "review-count": true,
-            "open-reviews": false,
+            "open-reviews": true,
             "show-border": false,
             "border-radius": 0,
             "font-size": 16,
