@@ -296,6 +296,28 @@
             "text": "<p><strong>🏆 Élu Meilleure Innovation Capillaire 2025</strong></p>"
           }
         },
+        "loox_reviews_loox_trust_badge_pTC8eN": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "layout": "horizontal-slim",
+            "alignment": "left",
+            "scheme-type": "default",
+            "review-title": "(Avis vérifiés)",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": false,
+            "review-count": true,
+            "open-reviews": false,
+            "show-border": false,
+            "border-radius": 5,
+            "font-size": 16,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
+          }
+        },
         "liquid_MQ7Qmz": {
           "type": "liquid",
           "settings": {
@@ -415,6 +437,7 @@
       },
       "block_order": [
         "text_hbdnBp",
+        "loox_reviews_loox_trust_badge_pTC8eN",
         "liquid_MQ7Qmz",
         "title_AQ6aac",
         "text_XLEAJz",
