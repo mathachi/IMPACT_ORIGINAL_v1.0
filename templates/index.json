@@ -88,7 +88,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 4,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -311,7 +311,7 @@
         "text_XLEAJz": {
           "type": "text",
           "settings": {
-            "text": "<h6>🏆 <strong>N°1 CONTRE LA PERTE DE CHEVEUX</strong></h6><h6><strong>📈 Densité visible en 4 semaines</strong></h6><h6>🧬<strong>Testé cliniquement, 0 effets secondaires</strong></h6><h6><strong>⛔ DHT Stoppée </strong>⮕❌<strong> Pertes capillaires</strong></h6>"
+            "text": "<p><strong>Tempes dégarnies, cheveux clairsemés ou chute héréditaire ? </strong>Avec notre Micro-Infusion, <strong>stoppez la chute</strong>, <strong>relancez la croissance</strong> et <strong>retrouvez une chevelure dense</strong> en quelques semaines. Dites adieu aux complexes et <strong>retrouvez votre confiance</strong> naturellement.</p>"
           }
         },
         "kaching_bundles_app_block_R8m9h4": {
