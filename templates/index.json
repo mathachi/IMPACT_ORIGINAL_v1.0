@@ -309,7 +309,7 @@
             "review-count": true,
             "open-reviews": false,
             "show-border": false,
-            "border-radius": 5,
+            "border-radius": 0,
             "font-size": 16,
             "background-color": "",
             "secondary-background-color": "",
