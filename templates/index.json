@@ -379,7 +379,7 @@
         "image_BWr7nT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/trust_points.svg",
+            "image": "shopify://shop_images/trust_points_2.svg",
             "alignment": "center",
             "max_width": 500
           }
