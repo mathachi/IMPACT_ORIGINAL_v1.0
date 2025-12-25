@@ -11,80 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 60,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Livraison gratuite",
-            "content": ""
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 60,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Service client 7j/7",
-            "content": ""
-          }
-        },
-        "discount": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-validation",
-            "mobile_icon_width": 60,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Satisfait ou remboursé",
-            "content": ""
-          }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 60,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Paiement sécurisé",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "free-shipping",
-        "customer-support",
-        "discount",
-        "payment"
-      ],
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -129,7 +55,6 @@
     }
   },
   "order": [
-    "text-with-icons",
     "footer"
   ]
 }
