@@ -717,6 +717,13 @@
             "title": "Quelle est la liste complète des ingrédients ?",
             "content": "<p>Menthol, Huile de menthe poivrée, Extrait de racine de ginseng, Extrait de racine d'anémarrhène asphodéloïde, Extrait de racine de gingembre, Huile de romarin, Extrait de sésame noir, Extrait de racine de réglisse, Extrait de racine d’angélique chinoise, Acide citrique, Extrait de feuille de thuya d’Orient, Extrait de sophora jaune, Extrait de feuille de biota orientalis, Extrait de racine de renouée multiflore, Extrait d’eclipta prostrée, Extrait d’écorce de quinquina.</p>"
           }
+        },
+        "item_GAdUjk": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi la couleur du sérum peut être différente ?",
+            "content": "<p>La couleur du sérum peut légèrement varier d’un lot à l’autre car sa <strong>formule </strong>est <strong>régulièrement optimisée</strong> au fil du temps pour améliorer son efficacité. De plus, certains mélanges d’actifs naturels n’aboutissent pas toujours exactement au même ton de bleu que celui illustré sur les visuels, <strong>sans que cela n’altère la qualité ni les résultats</strong> du produit.​<br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -730,7 +737,8 @@
         "item_JaGFry",
         "item_JYGxNy",
         "item_LKUPbG",
-        "item_ACDyGk"
+        "item_ACDyGk",
+        "item_GAdUjk"
       ],
       "settings": {
         "full_width": true,
