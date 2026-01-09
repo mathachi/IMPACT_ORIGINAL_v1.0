@@ -40,7 +40,7 @@
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
-    "cart_type": "drawer",
+    "cart_type": "popover",
     "cart_icon": "shopping_basket",
     "cart_show_free_shipping_threshold": false,
     "favicon": "shopify://shop_images/favicon_collagix.png",
