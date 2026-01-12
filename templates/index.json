@@ -544,11 +544,11 @@
         "item_7bRCFN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/depositphotos_39179963-stock-photo-male-doctor-with-laptop-at.webp",
+            "image": "shopify://shop_images/serious-young-asian-male-doctor-600nw-2596639513.webp",
             "image_rotation_degrees": 0,
-            "subheading": "Dr R.Dumat (Dermatologue Chirurgien)",
-            "title": "Validé par les Dermatologues",
-            "content": "<h5><br/><em>\"La DHT est la principale cause de la calvitie chez l'homme. Elle réduit la force des follicules et les endort.<br/><br/>Collagix s'attaque directement à ce problème grâce a cette technologie innovante qui va permettre à beaucoup d'hommes de regagner toute leur confiance en eux. Et tout ça sans trouble de la fonction sexuelle.\"</em></h5>",
+            "subheading": "Dr Kim Yucheon (Dermatologue Chirurgien)",
+            "title": "Réalisé par des Dermatologues",
+            "content": "<h5><br/><em>\"La DHT est la principale cause de la calvitie chez l'homme. Elle réduit la force des follicules et les endort.<br/><br/>Nous avons voulu traiter ce problème présent chez tous les hommes en créant cette technologie abordable pour justement tous les hommes.\"</em></h5>",
             "button_url": "",
             "button_text": ""
           }
@@ -557,7 +557,6 @@
       "block_order": [
         "item_7bRCFN"
       ],
-      "disabled": true,
       "name": "Multiple images with text",
       "settings": {
         "full_width": true,
