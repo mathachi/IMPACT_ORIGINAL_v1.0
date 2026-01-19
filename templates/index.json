@@ -238,23 +238,10 @@
             "link_style": "link"
           }
         },
-        "item_etwE8X": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_6_1.webp",
-            "column_size": "3",
-            "title": "Carlos R.",
-            "heading_tag": "h5",
-            "content": "<h6>\"Avant, on se moquait de mes golfes, maintenant, on me demande mon secret et tout le monde m'envie !\"</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_9BXAfX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_4_1.webp",
+            "image": "shopify://shop_images/avant_apres_6_1.webp",
             "column_size": "3",
             "title": "Marc L.",
             "heading_tag": "h5",
@@ -276,15 +263,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_etwE8X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_4_1.webp",
+            "column_size": "3",
+            "title": "Carlos R.",
+            "heading_tag": "h5",
+            "content": "<h6>\"Avant, on se moquait de mes golfes, maintenant, on me demande mon secret et tout le monde m'envie !\"</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_8zYfDe",
         "item_TBDTPX",
         "item_MRmtjJ",
-        "item_etwE8X",
         "item_9BXAfX",
-        "item_JTRyzc"
+        "item_JTRyzc",
+        "item_etwE8X"
       ],
       "name": "Multi-column",
       "settings": {
