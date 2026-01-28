@@ -39,6 +39,12 @@
             "heading_tag": "h5"
           }
         },
+        "text_mGX3mH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tempes dégarnies, cheveux clairsemés ou chute héréditaire ? </strong>Avec notre Micro-Infusion, <strong>stoppez la chute</strong>, <strong>relancez la croissance</strong> et <strong>retrouvez une chevelure dense</strong> en quelques semaines. Dites <strong>adieu aux complexes</strong> et <strong>retrouvez votre confiance</strong> naturellement.</p>"
+          }
+        },
         "kaching_bundles_app_block_833mDG": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -62,6 +68,7 @@
         "text_mbUXWG",
         "loox_reviews_loox_rating_xhzjmR",
         "title_EnPATC",
+        "text_mGX3mH",
         "kaching_bundles_app_block_833mDG",
         "buy_buttons_GeADVt"
       ],
