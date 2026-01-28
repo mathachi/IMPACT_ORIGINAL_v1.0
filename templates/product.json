@@ -372,6 +372,37 @@
         "text_color": ""
       }
     },
+    "multiple_images_with_text_4gUi3F": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_M8WJgx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/serious-young-asian-male-doctor-600nw-2596639513.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "Dr Kim Yucheon (Dermatologue Chirurgien)",
+            "title": "Réalisé par des Dermatologues",
+            "content": "<h5><br/><em>\"La DHT est la principale cause de la calvitie chez l'homme. Elle réduit la force des follicules et les endort.<br/><br/>Nous avons voulu traiter ce problème présent chez tous les hommes en créant cette technologie abordable pour justement tous les hommes.\"</em></h5>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_M8WJgx"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "#03224c",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "1755185762cb8deed5": {
       "type": "apps",
       "blocks": {
@@ -416,6 +447,7 @@
     "custom_liquid_fa8Ace",
     "custom_liquid_GmJXry",
     "custom_liquid_ANfH7x",
+    "multiple_images_with_text_4gUi3F",
     "1755185762cb8deed5"
   ]
 }
