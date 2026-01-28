@@ -121,8 +121,8 @@
         "image_REaYmQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_benefices_2800_x_1000_px_3_1.png",
-            "mobile_image": "shopify://shop_images/image_benefices_mobile_800x_900_px_3_1.png",
+            "image": "shopify://shop_images/image_benefices_2800_x_1000_px_2.png",
+            "mobile_image": "shopify://shop_images/image_benefices_mobile_800x_900_px_2.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
