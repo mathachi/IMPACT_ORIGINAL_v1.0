@@ -442,12 +442,186 @@
         "text_color": ""
       }
     },
+    "slideshow_mY4NGH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wBPyLr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/60_marine_2800_1000_1.svg",
+            "mobile_image": "shopify://shop_images/60_marine_1200_x_1600_px_1.svg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wBPyLr"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "faq_WpKQzd": {
+      "type": "faq",
+      "blocks": {
+        "item_LwRp8w": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est ce que la DHT ?",
+            "content": "<p>La DHT est une hormone naturellement présente dans le corps qui peut attaquer les racines de tes cheveux. Elle les affaiblit progressivement, ce qui provoque leur chute et empêche leur repousse.</p><p><strong>En bref</strong> : c'est la principale cause de la calvitie chez l'homme et la femme.</p><p>Notre traitement agit directement sur le cuir chevelu pour bloquer l'action de la DHT et permettre à tes cheveux de repousser normalement.</p>"
+          }
+        },
+        "item_yeQqKx": {
+          "type": "item",
+          "settings": {
+            "title": "Comment ça fonctionne ?",
+            "content": "<p>Le système utilise la technologie de micro-infusion pour délivrer des ingrédients actifs en profondeur dans le cuir chevelu, ciblant les follicules pileux afin de stimuler la pousse et de renforcer les cheveux.</p>"
+          }
+        },
+        "item_6nr9yi": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence dois-je l'utiliser ?",
+            "content": "<p>Pour des résultats optimaux, utilisez le système de repousse capillaire Collagix une fois par semaine pendant 3 semaines, suivies d’une semaine de pause. Ce rythme favorise une meilleure absorption du sérum et limite la saturation du cuir chevelu. Chaque kit contient la quantité idéale de sérum pour un protocole d’un mois.</p>"
+          }
+        },
+        "item_fxgb7r": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté à tous les types de cheveux ?",
+            "content": "<p>Oui, le système de repousse capillaire Collagix est conçu pour fonctionner sur tous les types et textures de cheveux.</p>"
+          }
+        },
+        "item_88Bwyp": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p><strong>Application ultra-fine, 100 % indolore.</strong><br/>Grâce à ses micro-aiguilles de 0,05 mm (aussi fines qu’un cheveu), l’application est quasi imperceptible — juste un léger picotement.</p><p><strong>Formule haut de gamme, ultra sûre.</strong><br/>Testé par des dermatologues, facile à utiliser, stérile, sans parfum, sans parabènes, sans BHA et non testé sur les animaux.<br/>✅ Aucun effet indésirable.</p>"
+          }
+        },
+        "item_6EH3yW": {
+          "type": "item",
+          "settings": {
+            "title": "Vous avez utilisé plein de traitements inefficaces, qu'est ce qui nous différencie ?",
+            "content": "<p>La plupart des produits échouent car ils n'appliquent les ingrédients que sur le cuir chevelu, où ils restent sans effet. La <strong>clé </strong>de la véritable <strong>repousse capillaire</strong> est de délivrer la formule <strong>en profondeur jusqu'aux racines</strong>, là où la chute des cheveux se produit.</p><p>Notre technologie de micro-infusion assure une <strong>absorption maximale</strong>, tandis qu'un puissant mélange de racine de <strong>Ginseng</strong>, de <strong>Menthe Poivrée</strong> et d'extrait d'<strong>Eclipta Prostata</strong> agit pour <strong>bloquer la DHT</strong>, <strong>détoxifier le cuir chevelu</strong> et <strong>réactiver les follicules dormants</strong>. C'est pourquoi notre produit fonctionne là où d'autres échouent.</p>"
+          }
+        },
+        "item_NFKFnd": {
+          "type": "item",
+          "settings": {
+            "title": "Quand vais-je commencer à voir des résultats ?",
+            "content": "<p>De nombreux utilisateurs constatent des améliorations visibles de la texture et de la croissance des cheveux en 4 à 6 semaines d'utilisation régulière. Les résultats peuvent varier d'une personne à l'autre.</p>"
+          }
+        },
+        "item_CEqtEX": {
+          "type": "item",
+          "settings": {
+            "title": "Les têtes d'aiguilles sont-elles réutilisables ?",
+            "content": "<p>Oui bien sûr, cependant, une fois les trois sessions de traitement complétées sur 45 jours, la tête à aiguille doit impérativement être jetée.</p><p>Pour nettoyer la tête à aiguille, rincez-la à l’eau tiède, puis appliquez un antiseptique ou de l’alcool doux (70°) par aspersion ou immersion. Rincez à nouveau à l’eau tiède et laissez sécher complètement à l’air libre.</p>"
+          }
+        },
+        "item_iiL48Y": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr à utiliser ?",
+            "content": "<p>Absolument ! Le système est non invasif, indolore et testé dermatologiquement pour garantir qu'il est sûr pour une utilisation à domicile.</p>"
+          }
+        },
+        "item_zLBizJ": {
+          "type": "item",
+          "settings": {
+            "title": "Je vais perdre mes résultats si je ne l'utilise plus ?",
+            "content": "<p>Une fois que les niveaux de DHT sont <strong>réduits</strong>, que votre cuir chevelu est <strong>détoxifié </strong>et que de <strong>nouveaux cheveux</strong> <strong>ont poussé</strong>, il faudra des mois, voire des années, avant que le DHT ne s'accumule à nouveau.</p><p>Cependant, pour des <strong>bienfaits durables </strong>et une <strong>croissance continue</strong> des cheveux, nous vous recommandons de continuer votre traitement jusqu'à que vous soyez <strong>entièrement satisfait</strong>.</p>"
+          }
+        },
+        "item_jgWxEp": {
+          "type": "item",
+          "settings": {
+            "title": "Les aiguilles laissent des marques ?",
+            "content": "<p><strong>Non</strong>, le produit ne laisse <strong>aucune marque ni rougeur</strong>. Les aiguilles sont ultra-fines, mesurant 0,5 mm. Elles sont conçues pour être <strong>douces </strong>et <strong>indolores </strong>tout en garantissant une <strong>diffusion efficace</strong> du sérum dans le <strong>cuir chevelu</strong>.</p>"
+          }
+        },
+        "item_F4VDkL": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la liste complète des ingrédients ?",
+            "content": "<p>Menthol, Huile de menthe poivrée, Extrait de racine de ginseng, Extrait de racine d'anémarrhène asphodéloïde, Extrait de racine de gingembre, Huile de romarin, Extrait de sésame noir, Extrait de racine de réglisse, Extrait de racine d’angélique chinoise, Acide citrique, Extrait de feuille de thuya d’Orient, Extrait de sophora jaune, Extrait de feuille de biota orientalis, Extrait de racine de renouée multiflore, Extrait d’eclipta prostrée, Extrait d’écorce de quinquina.</p>"
+          }
+        },
+        "item_wgVUxL": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi la couleur du sérum peut être différente ?",
+            "content": "<p>La couleur du sérum peut légèrement varier d’un lot à l’autre car sa <strong>formule </strong>est <strong>régulièrement optimisée</strong> au fil du temps pour améliorer son efficacité. De plus, certains mélanges d’actifs naturels n’aboutissent pas toujours exactement au même ton de bleu que celui illustré sur les visuels, <strong>sans que cela n’altère la qualité ni les résultats</strong> du produit.​<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_LwRp8w",
+        "item_yeQqKx",
+        "item_6nr9yi",
+        "item_fxgb7r",
+        "item_88Bwyp",
+        "item_6EH3yW",
+        "item_NFKFnd",
+        "item_CEqtEX",
+        "item_iiL48Y",
+        "item_zLBizJ",
+        "item_jgWxEp",
+        "item_F4VDkL",
+        "item_wgVUxL"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "1755185762cb8deed5": {
       "type": "apps",
       "blocks": {
         "loox_reviews_loox_dynamic_section_cpzBii": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "disabled": true,
           "settings": {
             "only_photos": false,
             "aggregated": false,
@@ -490,6 +664,8 @@
     "custom_liquid_iXzy3R",
     "custom_liquid_fRzEDx",
     "custom_liquid_YmjqFA",
+    "slideshow_mY4NGH",
+    "faq_WpKQzd",
     "1755185762cb8deed5"
   ]
 }
