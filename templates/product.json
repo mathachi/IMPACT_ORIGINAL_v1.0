@@ -110,6 +110,34 @@
           "settings": {
             "liquid": "{% comment %}\nCustom Liquid - Témoignange Médecin avec étoiles\n{% endcomment %}\n<div class=\"doctor-testimonial-section\">\n  <div class=\"testimonial-card\">\n    <!-- Photo du médecin -->\n    <div class=\"doctor-photo\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0913/5076/1853/files/medecin.webp?v=1756132712\" alt=\"Dr Lemoine\" class=\"doctor-image\">\n    </div>\n    \n    <!-- Contenu de l'avis -->\n    <div class=\"testimonial-content\">\n      <!-- Étoiles -->\n      <div class=\"stars-rating\">\n        <span class=\"star\">★</span>\n        <span class=\"star\">★</span>\n        <span class=\"star\">★</span>\n        <span class=\"star\">★</span>\n        <span class=\"star\">★</span>\n      </div>\n      \n      <!-- Texte du témoignage -->\n      <div class=\"testimonial-text\">\n        <p>\"J'ai arrêté de donner du minoxidil à tous mes patients depuis ce produit. La micro-infusion stop non seulement les chutes mais redonne aussi vie aux cheveux. Cela a permis à tous mes patients de regagner pleine confiance sans pour autant obtenir des troubles sexuels permanents comme avec le minoxidil et la finastéride.\"</p>\n      </div>\n      \n      <!-- Nom et certification -->\n      <div class=\"doctor-info\">\n        <div class=\"verification-badge\">✓</div>\n        <span class=\"doctor-name\">Dr.Nizot | Dermatologue certifié depuis 15 ans </span>\n      </div>\n    </div>\n  </div>\n</div>\n<style>\n.doctor-testimonial-section {\n  max-width: 600px;\n  margin: 40px auto;\n  padding: 20px;\n}\n.testimonial-card {\n  background: #ffffff;\n  border: 1px solid #e5e5e5;\n  border-radius: 15px;\n  padding: 25px;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n  display: flex;\n  gap: 20px;\n  align-items: flex-start;\n}\n.doctor-photo {\n  flex-shrink: 0;\n  display: flex;\n  align-items: flex-start;\n}\n.doctor-image {\n  width: 80px;\n  height: 80px;\n  border-radius: 50%;\n  object-fit: cover;\n  border: 3px solid #f0f0f0;\n  margin: 0;\n  padding: 0;\n  display: block;\n}\n.testimonial-content {\n  flex: 1;\n  display: flex;\n  flex-direction: column;\n}\n.stars-rating {\n  margin: 0 0 15px 0;\n  padding: 0;\n  line-height: 1;\n}\n.star {\n  color: #F8D85D;\n  font-size: 18px;\n  margin-right: 2px;\n}\n.testimonial-text {\n  margin-bottom: 20px;\n}\n.testimonial-text p {\n  margin: 0;\n  font-size: 16px;\n  line-height: 1.6;\n  color: #333;\n  font-style: italic;\n}\n.doctor-info {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n}\n.verification-badge {\n  background: #00B67A;\n  color: white;\n  width: 20px;\n  height: 20px;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 12px;\n  font-weight: bold;\n}\n.doctor-name {\n  font-weight: 600;\n  color: #333;\n  font-size: 16px;\n}\n/* Mobile */\n@media (max-width: 768px) {\n  .doctor-testimonial-section {\n    padding: 15px;\n    margin: 30px auto;\n  }\n  \n  .testimonial-card {\n    padding: 20px;\n    gap: 15px;\n  }\n  \n  .doctor-image {\n    width: 60px;\n    height: 60px;\n  }\n  \n  .testimonial-text p {\n    font-size: 14px;\n  }\n  \n  .doctor-name {\n    font-size: 14px;\n  }\n  \n  .star {\n    font-size: 16px;\n  }\n}\n@media (max-width: 480px) {\n  .testimonial-card {\n    flex-direction: column;\n    text-align: center;\n    gap: 15px;\n  }\n  \n  .doctor-photo {\n    align-self: center;\n    justify-content: center;\n  }\n  \n  .doctor-info {\n    justify-content: center;\n  }\n}\n</style>"
           }
+        },
+        "collapsible_text_bQcVHU": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<h6><br/><strong>Préparation</strong></h6><p>1. <strong>Remplissez </strong>le réservoir avec le sérum.</p><p>2. <strong>Retournez </strong>l’appareil pour <strong>imprégner </strong>les micro-aiguilles pendant 1 à 2 minutes.</p><h6><strong>Application</strong></h6><p>1. Sur cheveux <strong>propre</strong> et <strong>sec</strong>, appliquez par <strong>pressions lentes</strong>, en ciblant les zones clairsemées.</p><p>2. Passez 2 à 3 fois sur chaque zone pour une <strong>diffusion optimale</strong>.</p><h6><strong>Après le traitement</strong></h6><p>1. Utilisez l’appareil <strong>une fois par semaine</strong> pendant 3 semaines, puis faites une pause d’une semaine.</p>"
+          }
+        },
+        "collapsible_text_ReLWwk": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients clés",
+            "content": "<p><strong>Eclipta Prostrata</strong> → Stimule les follicules plus efficacement que le Minoxidil.<br/><strong>Ginseng (Panax Ginseng)</strong> → Bloque le DHT et relance la repousse naturelle.<br/><strong>Menthe poivrée & Gingembre</strong> → Boostent la circulation pour des cheveux plus épais.<br/><strong>Tripeptide de cuivre-1</strong> → Contribue au maintien de la barrière du cuir chevelu contre la DHT<br/><strong>Romarin</strong> → Favorise la repousse en cas de calvitie hormonale.</p>"
+          }
+        },
+        "collapsible_text_qWLY7A": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison à domicile",
+            "content": "<p>La <strong>livraison à domicile</strong> est <strong>gratuite </strong>pour votre confort. Le délai de livraison est estimé de <strong>8 à 12 jours ouvrés</strong>. </p><p></p><p></p>"
+          }
+        },
+        "collapsible_text_tmkzyP": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "60 jours Satisfait ou Remboursé",
+            "content": "<p>Essayez Collagix <strong>pendant 60 jours</strong> sans risque. Si vous n'êtes pas satisfait, vous avez la possibilité de demander <strong>un remboursement intégral</strong>.</p>"
+          }
         }
       },
       "block_order": [
@@ -125,7 +153,11 @@
         "liquid_qJX3Qe",
         "image_Gf6Yyh",
         "liquid_PPGCtx",
-        "liquid_Hk76ej"
+        "liquid_Hk76ej",
+        "collapsible_text_bQcVHU",
+        "collapsible_text_ReLWwk",
+        "collapsible_text_qWLY7A",
+        "collapsible_text_tmkzyP"
       ],
       "settings": {
         "full_width": true,
