@@ -36,7 +36,7 @@
         "title_EnPATC": {
           "type": "title",
           "settings": {
-            "heading_tag": "h5"
+            "heading_tag": "h3"
           }
         },
         "text_mGX3mH": {
