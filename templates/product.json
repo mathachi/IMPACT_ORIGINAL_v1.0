@@ -209,10 +209,11 @@
         "item_kUHUWp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avant_apres_3_1.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Damien G. 36 ans",
+            "heading_tag": "h5",
+            "content": "<h6><em>\"Avant, ma calvitie me faisait perdre confiance. Après 3 mois, mon crâne est plus dense et j’ai retrouvé ma confiance et ma femme me trouve plus séduisant!\"</em></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -221,10 +222,11 @@
         "item_6QWHVa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/testimonial-before-after-5_8.webp",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Martin C. 32 ans",
+            "heading_tag": "h5",
+            "content": "<h6><em>\"J'en pouvais plus de voir mon oreiller rempli de cheveux, mais dès les premières applications, ça s'est arrêté. Je pensais que ça finirait quand il n'y aurait plus rien !\"</em></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -233,10 +235,50 @@
         "item_jePYFY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/testimonial-before-after-5_9.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Kenji T. 43 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h6><em>\"J’ai refusé la greffe : trop chère, trop flippante. Là, je me pose 1 minute, sans douleur, sans rougeur, et je voyais déjà la différence après 1 mois !\"</em></h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_J4Kfqw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_6_1.webp",
+            "column_size": "3",
+            "title": "Marc L. 29 ans",
+            "heading_tag": "h4",
+            "content": "<h6><em>\"J'en avais marre qu'on me dise que j'avais 40 ans, aujourd'hui on m'en donne 20 parfois !\"</em></h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Cy4eMB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_5.webp",
+            "column_size": "3",
+            "title": "Pierre M. 53 ans",
+            "heading_tag": "h4",
+            "content": "<h6><em>\"J'ai retrouver mon identité grâce à Collagix et maintenant, je ne porte plus de couvre-chefs tout les jours !\"</em></h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HpixFm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_4_1.webp",
+            "column_size": "3",
+            "title": "Carlos R. 31 ans",
+            "heading_tag": "h4",
+            "content": "<h6><em>\"Avant, on se moquait de mes golfes, maintenant, on me demande mon secret et tout le monde m'envie !\"</em></h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -246,18 +288,21 @@
       "block_order": [
         "item_kUHUWp",
         "item_6QWHVa",
-        "item_jePYFY"
+        "item_jePYFY",
+        "item_J4Kfqw",
+        "item_Cy4eMB",
+        "item_HpixFm"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
