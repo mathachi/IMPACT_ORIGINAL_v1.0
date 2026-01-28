@@ -70,6 +70,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_iLPXJC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_1.jpg",
+            "alignment": "start",
+            "max_width": 240
+          }
         }
       },
       "block_order": [
@@ -79,7 +87,8 @@
         "text_mGX3mH",
         "kaching_bundles_app_block_833mDG",
         "image_W4yXFh",
-        "buy_buttons_GeADVt"
+        "buy_buttons_GeADVt",
+        "image_iLPXJC"
       ],
       "settings": {
         "full_width": true,
