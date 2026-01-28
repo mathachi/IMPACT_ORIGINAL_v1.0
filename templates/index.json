@@ -300,6 +300,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_kFJdic": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .timeline-section {\n    max-width: 900px;\n    margin: 40px auto;\n    padding: 20px;\n    background: #f5f5f5;\n    border-radius: 12px;\n  }\n  \n  .timeline-section h2 {\n    font-size: 32px;\n    font-weight: 700;\n    color: #03224C;\n    text-align: center;\n    margin-bottom: 10px;\n    line-height: 1.3;\n  }\n  \n  .timeline-subtitle {\n    text-align: center;\n    color: #03224C;\n    font-size: 16px;\n    margin-bottom: 30px;\n    line-height: 1.6;\n  }\n  \n  .timeline-tabs {\n    display: flex;\n    gap: 10px;\n    margin-bottom: 30px;\n    justify-content: center;\n    flex-wrap: wrap;\n  }\n  \n  .tab-button {\n    padding: 12px 24px;\n    background: #d4d4d4;\n    border: none;\n    cursor: pointer;\n    font-size: 16px;\n    font-weight: 600;\n    color: #03224C;\n    border-radius: 4px;\n    transition: all 0.3s ease;\n  }\n  \n  .tab-button.active {\n    background: #03224C;\n    color: white;\n  }\n  \n  .tab-button:hover {\n    background: #03224C;\n    color: white;\n  }\n  \n  .timeline-content {\n    display: none;\n    background: white;\n    border-radius: 12px;\n    padding: 0;\n    overflow: hidden;\n    box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n  }\n  \n  .timeline-content.active {\n    display: block;\n  }\n  \n  .timeline-content img {\n    width: 100%;\n    height: auto;\n    display: block;\n  }\n  \n  @media (max-width: 768px) {\n    .timeline-section h2 {\n      font-size: 26px;\n    }\n    \n    .tab-button {\n      padding: 10px 16px;\n      font-size: 14px;\n    }\n  }\n</style>\n\n<div class=\"timeline-section\">\n  <h2>Des cheveux plus épais chaque jour</h2>\n  <p class=\"timeline-subtitle\">\n    Christophe, client Collagix depuis décembre 2024, a documenté la progression de sa repousse capillaire. Sa calvitie était déjà bien avancée, voici ses résultats après 6 mois de cure.\n  </p>\n  \n  <div class=\"timeline-tabs\">\n    <button class=\"tab-button active\" onclick=\"showTab(0)\">Jour 0</button>\n    <button class=\"tab-button\" onclick=\"showTab(1)\">Jour 45</button>\n    <button class=\"tab-button\" onclick=\"showTab(2)\">Jour 90</button>\n    <button class=\"tab-button\" onclick=\"showTab(3)\">Jour 180</button>\n  </div>\n  \n  <!-- Image Jour 0 -->\n  <div class=\"timeline-content active\" id=\"tab-0\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5076/1853/files/1.png?v=1769638304\" alt=\"Jour 0\">\n  </div>\n  \n  <!-- Image Jour 45 -->\n  <div class=\"timeline-content\" id=\"tab-1\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5076/1853/files/2.png?v=1769638309\" alt=\"Jour 45\">\n  </div>\n  \n  <!-- Image Jour 90 -->\n  <div class=\"timeline-content\" id=\"tab-2\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5076/1853/files/3.png?v=1769638310\" alt=\"Jour 90\">\n  </div>\n  \n  <!-- Image Jour 180 -->\n  <div class=\"timeline-content\" id=\"tab-3\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0913/5076/1853/files/4.png?v=1769638311\" alt=\"Jour 180\">\n  </div>\n</div>\n\n<script>\n  function showTab(index) {\n    const contents = document.querySelectorAll('.timeline-content');\n    const buttons = document.querySelectorAll('.tab-button');\n    \n    contents.forEach(content => content.classList.remove('active'));\n    buttons.forEach(button => button.classList.remove('active'));\n    \n    document.getElementById('tab-' + index).classList.add('active');\n    buttons[index].classList.add('active');\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_hdi7CT": {
       "type": "featured-product",
       "blocks": {
@@ -810,6 +823,7 @@
     "custom_liquid_PXwNyE",
     "custom_liquid_PMJXB8",
     "multi_column_i7rRy8",
+    "custom_liquid_kFJdic",
     "featured_product_hdi7CT",
     "custom_liquid_yBWzLM",
     "custom_liquid_MttGWz",
