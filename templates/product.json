@@ -52,6 +52,14 @@
             "manual_deal_block_id": ""
           }
         },
+        "image_W4yXFh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nouvel_an_se_termine_ajd.svg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons_GeADVt": {
           "type": "buy_buttons",
           "settings": {
@@ -70,6 +78,7 @@
         "title_EnPATC",
         "text_mGX3mH",
         "kaching_bundles_app_block_833mDG",
+        "image_W4yXFh",
         "buy_buttons_GeADVt"
       ],
       "settings": {
