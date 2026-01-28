@@ -212,10 +212,7 @@
       "block_order": [
         "subheading_kBbU64"
       ],
-      "custom_css": [
-        "{font-size: 14px; padding-top: 10px !important; padding-bottom: 10px !important;}",
-        "{padding-top: 10px !important; padding-bottom: 10px !important;}"
-      ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -284,7 +281,7 @@
         "richtext_Q9TmQy": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Tempes dégarnies, cheveux clairsemés ou chute héréditaire ? </strong>Avec notre Micro-Infusion, <strong>stoppez la chute</strong>, <strong>relancez la croissance</strong> et <strong>retrouvez une chevelure dense</strong> en quelques semaines. Dites <strong>adieu aux complexes</strong> et <strong>retrouvez votre confiance</strong> naturellement.</p>"
+            "content": "<p><strong>Tempes dégarnies</strong>, <strong>cheveux clairsemés</strong> ou <strong>chutes</strong> ? Avec notre Micro-Infusion, <strong>stoppez la chute</strong>,<strong> relancez la croissance</strong> et retrouvez une <strong>chevelure dense en quelques semaines</strong>.</p>"
           }
         }
       },
