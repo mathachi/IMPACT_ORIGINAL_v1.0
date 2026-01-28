@@ -12,6 +12,33 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_mbUXWG": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>🏆 Élu Meilleure Innovation Capillaire 2025</strong></p>"
+          }
+        },
+        "loox_reviews_loox_rating_xhzjmR": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "Excellent 4,9/5｜1260 Avis vérifiés",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "title_EnPATC": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h5"
+          }
+        },
         "kaching_bundles_app_block_833mDG": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -32,6 +59,9 @@
         }
       },
       "block_order": [
+        "text_mbUXWG",
+        "loox_reviews_loox_rating_xhzjmR",
+        "title_EnPATC",
         "kaching_bundles_app_block_833mDG",
         "buy_buttons_GeADVt"
       ],
@@ -41,10 +71,10 @@
         "desktop_media_width": 65,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
+        "mobile_carousel_control": "dots",
+        "enable_video_autoplay": true,
         "enable_video_looping": true,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
