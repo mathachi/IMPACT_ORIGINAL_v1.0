@@ -299,6 +299,22 @@
         "text_color": ""
       }
     },
+    "custom_liquid_fhatAD": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "section {padding-bottom: 5px !important;}"
+      ],
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 4px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 8px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">En stock : 6 kits restants</div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1769631643c0b16fa3": {
       "type": "apps",
       "blocks": {
@@ -392,6 +408,7 @@
     "rich_text_Qz4GtT",
     "17696314936fbb07d0",
     "rich_text_zyPagX",
+    "custom_liquid_fhatAD",
     "1769631643c0b16fa3",
     "rich_text_gzqqb3",
     "custom_liquid_Cf8cnp",
