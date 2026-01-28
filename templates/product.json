@@ -75,7 +75,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_1.jpg",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 240
           }
         }
@@ -108,11 +108,25 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_AJYN7P": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- HTML à ajouter là où vous voulez le timer -->\n<div class=\"countdown\" id=\"countdown\">\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"days\">00</span>\n        <div class=\"time-label\">Jours</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"hours\">00</span>\n        <div class=\"time-label\">Hrs</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"minutes\">10</span>\n        <div class=\"time-label\">Mins</div>\n    </div>\n    <div class=\"colon\">:</div>\n    <div class=\"time-unit\">\n        <span class=\"time-number\" id=\"seconds\">08</span>\n        <div class=\"time-label\">Secs</div>\n    </div>\n</div>\n\n<!-- CSS à ajouter dans votre thème -->\n<style>\n.countdown {\n    display: flex;\n    gap: 20px;\n    align-items: center;\n    justify-content: center;\n    background: white;\n    padding: 30px;\n    border-radius: 10px;\n    box-shadow: 0 4px 8px rgba(0,0,0,0.1);\n    margin: 20px 0;\n}\n\n.time-unit {\n    text-align: center;\n    min-width: 60px;\n}\n\n.time-number {\n    font-size: 48px;\n    font-weight: bold;\n    color: #FF0000;\n    display: block;\n    line-height: 1;\n    animation: glow-blink 1.5s ease-in-out infinite;\n    text-shadow:\n      0 0 12px #ff1a1a,\n      0 0 24px #fff,\n      0 0 36px #ff1a1a;\n}\n\n/* Animation de clignotement brillant */\n@keyframes glow-blink {\n    0%, 100% {\n        opacity: 1;\n        text-shadow:\n          0 0 12px #ff1a1a,\n          0 0 24px #fff,\n          0 0 36px #ff1a1a;\n    }\n    50% {\n        opacity: 0.7;\n        text-shadow:\n          0 0 24px #ff1a1a,\n          0 0 48px #fff,\n          0 0 60px #ff5959;\n    }\n}\n\n.time-label {\n    font-size: 14px;\n    color: #666;\n    margin-top: 5px;\n}\n\n.colon {\n    font-size: 36px;\n    font-weight: bold;\n    color: #FF0000;\n    animation: glow-blink 1.5s ease-in-out infinite;\n    text-shadow:\n      0 0 12px #ff1a1a,\n      0 0 24px #fff,\n      0 0 36px #ff1a1a;\n}\n\n@media (max-width: 768px) {\n    .countdown {\n        gap: 10px;\n        padding: 20px 15px;\n    }\n    \n    .time-unit {\n        min-width: 50px;\n    }\n    \n    .time-number {\n        font-size: 32px;\n    }\n    \n    .time-label {\n        font-size: 12px;\n    }\n    \n    .colon {\n        font-size: 24px;\n    }\n}\n</style>\n\n<!-- JavaScript à ajouter avant la fermeture du body -->\n<script>\n(function() {\n    // Démarrer le timer avec 10 minutes 08 secondes\n    const startTime = new Date().getTime();\n    const duration = (10 * 60 + 8) * 1000;\n    const endTime = startTime + duration;\n\n    function updateTimer() {\n        const now = new Date().getTime();\n        const timeLeft = endTime - now;\n\n        if (timeLeft <= 0) {\n            document.getElementById('days').textContent = '00';\n            document.getElementById('hours').textContent = '00';\n            document.getElementById('minutes').textContent = '00';\n            document.getElementById('seconds').textContent = '00';\n            return;\n        }\n\n        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));\n        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));\n        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);\n\n        document.getElementById('days').textContent = days.toString().padStart(2, '0');\n        document.getElementById('hours').textContent = hours.toString().padStart(2, '0');\n        document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');\n        document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');\n    }\n\n    updateTimer();\n    setInterval(updateTimer, 1000);\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1755185762cb8deed5": {
       "type": "apps",
       "blocks": {
         "loox_reviews_loox_dynamic_section_cpzBii": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
           "settings": {
             "only_photos": false,
             "aggregated": false,
@@ -143,6 +157,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_AJYN7P",
     "1755185762cb8deed5"
   ]
 }
