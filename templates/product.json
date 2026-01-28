@@ -45,6 +45,12 @@
             "text": "<p><strong>Tempes dégarnies, cheveux clairsemés ou chute héréditaire ? </strong>Avec notre Micro-Infusion, <strong>stoppez la chute</strong>, <strong>relancez la croissance</strong> et <strong>retrouvez une chevelure dense</strong> en quelques semaines. Dites <strong>adieu aux complexes</strong> et <strong>retrouvez votre confiance</strong> naturellement.</p>"
           }
         },
+        "liquid_ec6BaJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 4px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 8px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">En stock : 6 kits restants</div>\n</div>"
+          }
+        },
         "kaching_bundles_app_block_833mDG": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -99,6 +105,7 @@
         "loox_reviews_loox_rating_xhzjmR",
         "title_EnPATC",
         "text_mGX3mH",
+        "liquid_ec6BaJ",
         "kaching_bundles_app_block_833mDG",
         "image_W4yXFh",
         "buy_buttons_GeADVt",
