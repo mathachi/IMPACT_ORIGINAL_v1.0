@@ -159,7 +159,6 @@
         "collapsible_text_qWLY7A",
         "collapsible_text_tmkzyP"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
@@ -178,183 +177,6 @@
         "input_text_color": ""
       }
     },
-    "featured_product_PGapUA": {
-      "type": "featured-product",
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "collagix-micro-infusion-regeneration-capillaire",
-        "desktop_media_width": 65,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "contained",
-        "mobile_carousel_control": "dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "rich_text_Qz4GtT": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_kBbU64": {
-          "type": "subheading",
-          "settings": {
-            "text": "🏆 Élu Meilleure Innovation Capillaire 2025"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_kBbU64"
-      ],
-      "custom_css": [],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "17696314936fbb07d0": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_trust_badge_34cUTy": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "layout": "horizontal-slim",
-            "alignment": "left",
-            "scheme-type": "default",
-            "review-title": "Avis vérifiés",
-            "rating-icon": true,
-            "average-rating": true,
-            "loox-branding": false,
-            "review-count": true,
-            "open-reviews": false,
-            "show-border": false,
-            "border-radius": 8,
-            "font-size": 14,
-            "background-color": "",
-            "secondary-background-color": "",
-            "text-color": "",
-            "rating-icon-color": "",
-            "border-color": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_trust_badge_34cUTy"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "rich_text_zyPagX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DfgFDr": {
-          "type": "heading",
-          "settings": {
-            "text": "Technologie Micro Infusion™ Capillaire",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_Q9TmQy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Tempes dégarnies</strong>, <strong>cheveux clairsemés</strong> ou <strong>chutes</strong> ? Avec notre Micro-Infusion, <strong>stoppez la chute</strong>,<strong> relancez la croissance</strong> et retrouvez une <strong>chevelure dense en quelques semaines</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_DfgFDr",
-        "richtext_Q9TmQy"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_fhatAD": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "section {padding-bottom: 5px !important;}"
-      ],
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 4px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 8px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">En stock : 6 kits restants</div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1769631643c0b16fa3": {
-      "type": "apps",
-      "blocks": {
-        "kaching_bundles_app_block_qBwAEk": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{product}}",
-            "manual_deal_block_id": ""
-          }
-        }
-      },
-      "block_order": [
-        "kaching_bundles_app_block_qBwAEk"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "rich_text_gzqqb3": {
-      "type": "rich-text",
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_Cf8cnp": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -364,6 +186,78 @@
         "remove_horizontal_spacing": false,
         "liquid": "{% comment %}\nSection témoignages avec vidéos en boucle - Version optimisée\n{% endcomment %}\n\n<style>\n  .testimonials-section {\n    background-color: #03224c;\n    padding: 80px 0;\n    text-align: center;\n  }\n  \n  .testimonials-container {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 0 0px;\n  }\n  \n  .testimonials-header {\n    margin-bottom: 40px;\n  }\n  \n  .testimonials-title {\n    font-family: 'Poppins', sans-serif;\n    font-size: 28px;\n    font-weight: 600;\n    color: #fff;\n    margin-bottom: 20px;\n  }\n  \n  .videos-grid {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 20px;\n    align-items: center;\n    justify-items: center;\n  }\n  \n  .video-container {\n    position: relative;\n    width: 100%;\n    max-width: 280px;\n    height: 350px;\n    border-radius: 12px;\n    overflow: hidden;\n    box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n    transition: transform 0.3s ease, box-shadow 0.3s ease;\n  }\n  \n  .video-container:hover {\n    transform: translateY(-5px);\n    box-shadow: 0 8px 25px rgba(0,0,0,0.15);\n  }\n  \n  .testimonial-video {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    border-radius: 12px;\n  }\n  \n  .video-overlay {\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.1) 100%);\n    pointer-events: none;\n  }\n  \n  .video-caption {\n    position: absolute;\n    top: 15px;\n    left: 15px;\n    right: 15px;\n    background: rgba(255,255,255,0.9);\n    padding: 8px 12px;\n    border-radius: 8px;\n    font-family: 'Poppins', sans-serif;\n    font-size: 12px;\n    font-weight: 500;\n    color: #333;\n    text-align: center;\n    line-height: 1.3;\n  }\n  \n  @media (max-width: 1024px) {\n    .testimonials-title {\n      font-size: 24px;\n    }\n  }\n  \n  @media (max-width: 768px) {\n    .testimonials-section {\n      padding: 0px 0;\n    }\n    \n    .testimonials-title {\n      font-size: 24px;\n    }\n    \n    .videos-grid {\n      display: flex;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      gap: 15px;\n      padding: 0 20px;\n      -webkit-overflow-scrolling: touch;\n    }\n    \n    .videos-grid::-webkit-scrollbar {\n      display: none;\n    }\n    \n    .video-container {\n      flex: none;\n      width: 280px;\n      max-width: 280px;\n      height: 350px;\n      scroll-snap-align: start;\n    }\n    \n    .video-container:first-child {\n      margin-left: 0;\n    }\n    \n    .video-container:last-child {\n      margin-right: 20px;\n    }\n    \n    .video-caption {\n      font-size: 11px;\n      padding: 6px 10px;\n    }\n  }\n</style>\n\n<section class=\"testimonials-section\">\n  <div class=\"testimonials-container\">\n    \n    <h2 class=\"testimonials-title\">Plus de 12 000 hommes satisfaits. Et vous ?</h2>\n    \n    <div class=\"videos-grid\">\n      <div class=\"video-container\">\n        <video src=\"https://cdn.shopify.com/videos/c/o/v/efc72caa4fac49daa15317205e47a18a.mp4\" class=\"testimonial-video\" autoplay muted loop playsinline></video>\n        <div class=\"video-overlay\"></div>\n      </div>\n      \n      <div class=\"video-container\">\n        <video src=\"https://cdn.shopify.com/videos/c/o/v/d9ba16591db14d4fb0eb0377d31f28da.mp4\" class=\"testimonial-video\" autoplay muted loop playsinline></video>\n        <div class=\"video-overlay\"></div>\n      </div>\n      \n      <div class=\"video-container\">\n        <video src=\"https://cdn.shopify.com/videos/c/o/v/78d8c21958124b89982a2433567ea57c.mp4\" class=\"testimonial-video\" autoplay muted loop playsinline></video>\n        <div class=\"video-overlay\"></div>\n      </div>\n      \n      <div class=\"video-container\">\n        <video src=\"https://cdn.shopify.com/videos/c/o/v/9c00a73e8d7345ee9e5f7649651af682.mp4\" class=\"testimonial-video\" autoplay muted loop playsinline></video>\n        <div class=\"video-overlay\"></div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
         "background": "#04234a",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_RKVjW8": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% comment %}\nSection témoignage client - Version optimisée\n{% endcomment %}\n\n<style>\n  .testimonial-client * {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n  }\n  \n  .testimonial-client {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    background: #f8f9fa;\n    margin: 0;\n    padding: 0px;\n  }\n  \n  .testimonial-container {\n    background: white;\n    border-radius: 16px;\n    padding: 40px 30px;\n    text-align: center;\n    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);\n    max-width: 500px;\n    width: 100%;\n    margin: 0 auto;\n    margin-bottom: -70px;\n    position: relative;\n  }\n  \n  .testimonial-content {\n    position: relative;\n    z-index: 2;\n  }\n  \n  .testimonial-title {\n    font-size: 1.5rem;\n    font-weight: 700;\n    color: #2d3748;\n    margin-bottom: 20px;\n    line-height: 1.3;\n  }\n  \n  .rating-container {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 12px;\n    margin-bottom: 0;\n  }\n  \n  .rating-text {\n    font-size: 1.1rem;\n    color: #4a5568;\n    font-weight: 600;\n  }\n  \n  .rating-score {\n    font-size: 1.5rem;\n    font-weight: 800;\n    color: #00d4aa;\n  }\n  \n  .divider {\n    color: #a0aec0;\n    font-size: 1.2rem;\n    margin: 0 3px;\n  }\n  \n  .stars {\n    display: flex;\n    gap: 3px;\n  }\n  \n  .star {\n    font-size: 1.3rem;\n    color: #08BA7C;\n  }\n  \n  @media (max-width: 480px) {\n    .testimonial-container {\n      padding: 20px 20px;\n      margin: 0 0px;\n      margin-bottom: -20px;\n    }\n    \n    .testimonial-title {\n      font-size: 1.3rem;\n    }\n    \n    .rating-container {\n      gap: 8px;\n    }\n    \n    .rating-text {\n      font-size: 1rem;\n    }\n    \n    .rating-score {\n      font-size: 1.3rem;\n    }\n  }\n</style>\n\n<div class=\"testimonial-client\">\n  <div class=\"testimonial-container\">\n    <div class=\"testimonial-content\">\n      <h2 class=\"testimonial-title\">Nos clients en parlent le mieux</h2>\n      \n      <div class=\"rating-container\">\n        <span class=\"rating-text\">Excellent</span>\n        <span class=\"rating-score\">4.8</span>\n        <span class=\"divider\">/</span>\n        <span class=\"rating-text\">5</span>\n        <div class=\"stars\">\n          <span class=\"star\">★</span>\n          <span class=\"star\">★</span>\n          <span class=\"star\">★</span>\n          <span class=\"star\">★</span>\n          <span class=\"star\">★</span>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_eRCfpP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kUHUWp": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6QWHVa": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jePYFY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kUHUWp",
+        "item_6QWHVa",
+        "item_jePYFY"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -404,14 +298,9 @@
   },
   "order": [
     "main",
-    "featured_product_PGapUA",
-    "rich_text_Qz4GtT",
-    "17696314936fbb07d0",
-    "rich_text_zyPagX",
-    "custom_liquid_fhatAD",
-    "1769631643c0b16fa3",
-    "rich_text_gzqqb3",
     "custom_liquid_Cf8cnp",
+    "custom_liquid_RKVjW8",
+    "multi_column_eRCfpP",
     "1755185762cb8deed5"
   ]
 }
