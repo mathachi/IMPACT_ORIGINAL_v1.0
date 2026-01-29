@@ -222,7 +222,7 @@
         "item_6QWHVa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/testimonial-before-after-5_8.webp",
+            "image": "shopify://shop_images/avant_apres_7.webp",
             "column_size": "3",
             "title": "Martin C. 32 ans",
             "heading_tag": "h5",
@@ -248,7 +248,7 @@
         "item_J4Kfqw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_6_1.webp",
+            "image": "shopify://shop_images/testimonial-before-after-5_8.webp",
             "column_size": "3",
             "title": "Marc L. 29 ans",
             "heading_tag": "h4",
@@ -274,7 +274,7 @@
         "item_HpixFm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_4_1.webp",
+            "image": "shopify://shop_images/avant_apres_6_1.webp",
             "column_size": "3",
             "title": "Carlos R. 31 ans",
             "heading_tag": "h4",
